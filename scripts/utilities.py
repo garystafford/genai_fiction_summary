@@ -8,7 +8,15 @@ from botocore.exceptions import ClientError
 
 class Utilities:
     # constructor
-    def __init__(self, model):
+    def __init__(
+        self,
+        model="anthropic.claude-v2",
+        max_tokens_to_sample=500,
+        temperature=0.3,
+        top_k=250,
+        top_p=0.999,
+        stop_sequences=["\n\nHuman:"],
+    ):
         self.model = model
         self.logger = logging.getLogger(__name__)
         logging.config.fileConfig("logging.ini", disable_existing_loggers=False)
@@ -39,7 +47,7 @@ class Utilities:
             body = json.dumps(
                 {
                     "prompt": f"\n\nHuman:{prompt}\n\n{chapter.strip()}\n\nAssistant:",
-                    "max_tokens_to_sample": 300,
+                    "max_tokens_to_sample": 500,
                     "temperature": 0.0,
                     # "top_k": 250,
                     # "top_p": 0.999,
@@ -60,7 +68,9 @@ class Utilities:
 
             # remove the first line of text that explains the task completed
             # e.g. " Here are three hypothetical questions that the passage could help answer:\n\n"
-            formatted_response = response_body.get("completion").split("\n", 2)[2].strip()
+            formatted_response = (
+                response_body.get("completion").split("\n", 2)[2].strip()
+            )
             return formatted_response
         except ClientError as ex:
             self.logger.error(ex)

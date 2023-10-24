@@ -18,7 +18,7 @@ def main():
     with open(file_path, "r") as file:
         book_text = file.read()
 
-    utilities = Utilities("anthropic.claude-v2")
+    utilities = Utilities("anthropic.claude-v2", 500, 0.0, 250, 0.999, ["\n\nHuman:"])
 
     chapters = utilities.split_book(book_text)
 
@@ -27,19 +27,20 @@ def main():
     summary = ""
 
     logger.info(f"Start time: {datetime.datetime.now()}")
+    summary += f"Start time: {datetime.datetime.now()}\n"
 
     for i, chapter in enumerate(chapters):
         try:
             # summary 5a
             # prompt = "Provide a brief description of each character in the following chapter. Start each description with the name of the character followed by a colon, not a dash."
-            
+
             # summary 5b
             # prompt = "Provide a bullet-point brief description of each character in the following chapter. Order the characters by how many times they are mentioned. Start each description with the name of the character followed by a colon, not a dash."
-            
+
             # summary 5c
             # prompt = "Provide a bullet-point brief description of each geographic location in the following chapter. Order the locations by how many times they are mentioned.  Start each description with the name of the location followed by a colon, not a dash."
             # prompt = "Provide a bullet-point brief description of physical locations in the following chapter. Start each description with the name of the location followed by a colon (':')."
-            
+
             # summary 5d
             # prompt = "Provide a bullet-point brief description of geographic locations in the following chapter. Format each location as '{location}: {description}'."
 
@@ -47,7 +48,8 @@ def main():
             # prompt = "Provide a bullet-point brief description of top three most-mentioned geographic locations in the following chapter. Format each location as '{location}: {description}'."
 
             # summary 5f
-            prompt = """The following types of characters often found in fictional novels: 
+            prompt = """### INSTRUCTIONS ###
+                The following types of characters are often found in fictional literature: 
                 - Protagonist
                 - Antihero
                 - Antagonist
@@ -60,13 +62,31 @@ def main():
                 - Confidant
                 - Foil
 
-                Given the above is of character types, identify characters in the following chapter that fit these types. Only use these roles.
-                If no character fits a type, igore it. Format each character as '{character name} - {type}: {description}'.
-            """
+                Given the above list of character types, identify characters in the following chapter from a fictional story that fit these types. 
+                Only use these roles. If no character fits a type, ignore it. 
+                Here is an example: '- Love Interest - Minnie Mouse: Mickey Mouse's lifelong romatic interest.
+                Format each character as 'Character name - Character type: Description'.
+                ### CHAPTER ###"""
 
             # summary 5g
-            # prompt = "Provide a bullet-point list of three words or short phrases that best describe the following chapter."
-            prompt = "Provide a bullet-point list of three words that best describe the following chapter and give the reason why. Format each location as '{the word}: {reason why}'."
+            # https://medium.com/@mengsaylms/mastering-prompt-engineering-for-effective-llm-output-tips-techniques-and-warning-d76b09515c3
+            # prompt = """### INSTRUCTIONS ###
+            #     Provide a bullet-point list of 3 single individual words that best describe the following chapter. Also, provide a brief reason for each word chosen. 
+            #     Here is an example of a bullet-point: '- Relentless: The riders and thier hounds were desperately chasing after the poor fox.
+            #     Don't include the example in the reponse. Format each word as '- Word: Reason'
+            #     ### CHAPTER ###"""
+
+            # summary 5h
+            # prompt = """### INSTRUCTIONS ###
+            #     The following list of literary devices are often found in fictional literature: 
+            #     Allegory , Alliteration , Allusion, Amplification , Anagram, Analogy, Anthropomorphism, Antithesis, 
+            #     Chiasmus, Colloquialism, Circumlocution, Epigraph, Euphemism, Foreshadowing, Hyperbole, Imagery, 
+            #     Metaphor, Mood, Motif, Onomatopoeia, Oxymoron, Paradox, Personification, Portmanteau, Puns, Satire, 
+            #     Simile, Symbolism, and Tone.
+                
+            #     Based on this list, give 2-3 examples of literary devices found in the following chapter from a fictional story and explain why.
+            #     Format each character as 'Literary device: Explaination'.
+            #     ### CHAPTER ###"""
 
             chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
             chapter_summary = f"\nChapter {i + 1}:\n{chapter_summary}\n\n"
@@ -78,8 +98,9 @@ def main():
             summary += chapter_summary
 
     logger.info(f"Finish time: {datetime.datetime.now()}")
+    summary += f"Finish time: {datetime.datetime.now()}"
 
-    with open(f"../output/{title.lower()}_summary_05g.txt", "w") as f:
+    with open(f"../output/{title.lower()}_summary_05f.txt", "w") as f:
         f.write(summary)
 
 

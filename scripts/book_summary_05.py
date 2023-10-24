@@ -47,7 +47,7 @@ def main():
             # summary 5e
             prompt = """### INSTRUCTIONS ###
                 Provide a bullet-point brief description of top three most-mentioned geographic locations in the following chapter. 
-                Here is an example: '- Hoboken, NJ: A city in New Jersey with lots of resturants and bars.
+                Here is an example: '- Hoboken, NJ: A New Jersey city on the Hudson River, containing many resturants and bars.
                 Format each bullet-point like this: '- Location: Description'.
                 ### CHAPTER ###"""
 

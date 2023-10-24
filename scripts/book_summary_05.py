@@ -25,9 +25,9 @@ def main():
     client_bedrock = utilities.create_bedrock_connection()
 
     summary = ""
-
-    logger.info(f"Start time: {datetime.datetime.now()}")
-    summary += f"Start time: {datetime.datetime.now()}\n"
+    start_time = f"Start time: {datetime.datetime.now()}"
+    logger.info(start_time)
+    summary += f"{start_time}\n"
 
     for i, chapter in enumerate(chapters):
         try:
@@ -45,35 +45,39 @@ def main():
             # prompt = "Provide a bullet-point brief description of geographic locations in the following chapter. Format each location as '{location}: {description}'."
 
             # summary 5e
-            # prompt = "Provide a bullet-point brief description of top three most-mentioned geographic locations in the following chapter. Format each location as '{location}: {description}'."
+            prompt = """### INSTRUCTIONS ###
+                Provide a bullet-point brief description of top three most-mentioned geographic locations in the following chapter. 
+                Here is an example: '- Hoboken, NJ: A city in New Jersey with lots of resturants and bars.
+                Format each bullet-point like this: '- Location: Description'.
+                ### CHAPTER ###"""
 
             # summary 5f
-            prompt = """### INSTRUCTIONS ###
-                The following types of characters are often found in fictional literature: 
-                - Protagonist
-                - Antihero
-                - Antagonist
-                - Guide
-                - Contagonist
-                - Sidekicks (Deuteragonist)
-                - Henchmen
-                - Love Interest
-                - Temptress
-                - Confidant
-                - Foil
+            # prompt = """### INSTRUCTIONS ###
+            #     The following types of characters are often found in fictional literature: 
+            #     - Protagonist
+            #     - Antihero
+            #     - Antagonist
+            #     - Guide
+            #     - Contagonist
+            #     - Sidekicks (Deuteragonist)
+            #     - Henchmen
+            #     - Love Interest
+            #     - Temptress
+            #     - Confidant
+            #     - Foil
 
-                Given the above list of character types, identify characters in the following chapter from a fictional story that fit these types. 
-                Only use these roles. If no character fits a type, ignore it. 
-                Here is an example: '- Love Interest - Minnie Mouse: Mickey Mouse's lifelong romatic interest.
-                Format each character as 'Character name - Character type: Description'.
-                ### CHAPTER ###"""
+            #     Given the above list of character types, identify characters in the following chapter from a fictional story that fit these types. 
+            #     Only use these roles. If no character fits a type, ignore it. 
+            #     Here is an example: '- Love Interest - Minnie Mouse: Mickey Mouse's lifelong romatic interest.
+            #     Format each character like this: 'Character name - Character type: Description'.
+            #     ### CHAPTER ###"""
 
             # summary 5g
             # https://medium.com/@mengsaylms/mastering-prompt-engineering-for-effective-llm-output-tips-techniques-and-warning-d76b09515c3
             # prompt = """### INSTRUCTIONS ###
             #     Provide a bullet-point list of 3 single individual words that best describe the following chapter. Also, provide a brief reason for each word chosen. 
             #     Here is an example of a bullet-point: '- Relentless: The riders and thier hounds were desperately chasing after the poor fox.
-            #     Don't include the example in the reponse. Format each word as '- Word: Reason'
+            #     Don't include the example in the reponse. Format each bullet-point like this: '- Word: Reason'
             #     ### CHAPTER ###"""
 
             # summary 5h
@@ -85,7 +89,7 @@ def main():
             #     Simile, Symbolism, and Tone.
                 
             #     Based on this list, give 2-3 examples of literary devices found in the following chapter from a fictional story and explain why.
-            #     Format each character as 'Literary device: Explaination'.
+            #     Format each example like this: 'Literary device: Explaination'.
             #     ### CHAPTER ###"""
 
             chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
@@ -97,10 +101,11 @@ def main():
             logger.error(chapter_summary)
             summary += chapter_summary
 
-    logger.info(f"Finish time: {datetime.datetime.now()}")
-    summary += f"Finish time: {datetime.datetime.now()}"
+    finish_time = f"Finish time: {datetime.datetime.now()}"
+    logger.info(finish_time)
+    summary += f"{finish_time}"
 
-    with open(f"../output/{title.lower()}_summary_05f.txt", "w") as f:
+    with open(f"../output/{title.lower()}_summary_05e.txt", "w") as f:
         f.write(summary)
 
 

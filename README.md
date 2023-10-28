@@ -1,6 +1,6 @@
-# Mastering Long Document Insights
+# Mastering Long Document Insights: Advanced Summarization with Amazon Bedrock and Anthropic Claude 2 Foundation Model
 
-Advanced Summarization with Amazon Bedrock and Anthropic Claude 2 Foundation Model. Unleash the Power of Generative AI for Comprehensive Document Analysis and Summarization.
+Unleash the Power of Generative AI for Comprehensive Document Analysis and Summarization.
 
 ## Commands
 

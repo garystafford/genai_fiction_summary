@@ -1,4 +1,8 @@
-# Summarize a Large Text File
+# Mastering Long Document Insights
+
+Advanced Summarization with Amazon Bedrock and Anthropic Claude 2 Foundation Model. Unleash the Power of Generative AI for Comprehensive Document Analysis and Summarization.
+
+## Commands
 
 ```sh
 python3 -m pip install virtualenv
@@ -7,12 +11,19 @@ python3 -m venv summarize
 source summarize/bin/activate
 
 python3 -m pip install -r requirements.txt -Uq
+```
 
+```sh
 black *.py
 ```
 
+## Output Examples
 
 ```text
-2023-10-23 20:22:15,461 - utilities - INFO - Response body: {'completion': ' Here are two examples of literary devices from the passage:\n\nForeshadowing: Van Helsing rubs garlic flowers over Lucy\'s window and door, saying "Perhaps I am!" working some spell to keep out an evil spirit. This foreshadows supernatural events involving Lucy later in the story.\n\nImagery: Descriptions of Lucy like "horribly white and wan-looking" and "the pallid cheeks and lips" create vivid imagery related to her illness and loss of blood.\n\nThe foreshadowing builds suspense and hints at future plot developments, while the imagery helps the reader visualize Lucy\'s worsening condition. The literary devices add to the gothic tone and drama of this scene.', 'stop_reason': 'stop_sequence'}
 
-2023-10-23 20:22:44,134 - utilities - INFO - Response body: {'completion': ' Here are some examples of literary devices from the chapter:\n\nForeshadowing: "Somehow, I do not dread being alone to-night, and I can go to sleep without fear." This foreshadows the later events of Lucy being attacked by the wolf.\n\nImagery: "The air seems full of specks, floating and circling in the draught from the window, and the lights burn blue and dim." This imagery creates a vivid scene for the reader.\n\nSymbolism: The flowers around Lucy\'s neck represent her innocence and purity. When the wolf tears them off, it symbolizes the loss of that innocence. \n\nPersonification: "Presently the door opened, and mother looked in; seeing by my moving that I was not asleep, came in, and sat by me." The door is personified as opening on its own.\n\nSimile: "I tried to stir, but there was some spell upon me, and dear mother’s poor body, which seemed to grow cold already—for her dear heart had ceased to beat—weighed me down; and I remembered no more for a while." This compares the feeling of being weighed down to her mother\'s body on top of her.', 'stop_reason': 'stop_sequence'}```
+2023-10-28 08:29:15,761 - utilities - INFO - Response body: {'completion': ' Here is a one-paragraph description of Count Dracula:\n\nCount Dracula is an ancient vampire of nobility from the remote mountains of Transylvania who resides alone in a decaying yet magnificent castle. He initially appears charming and welcoming but gradually reveals his true sinister and threatening nature. With his gaunt figure, waxen skin, high aquiline nose, pointed ears, sharp teeth and burning red eyes, Dracula exhibits a mysterious magnetism and power over humans, able to control animals and the weather. He attacks the innocent Jonathan Harker, later turning Lucy Westenra into a vampire. Persistent in his vampiric evil, Dracula possesses supernatural abilities and cunning intelligence, escaping capture multiple times. Though eloquent and refined on the surface, at his core Dracula is a ruthless predator who spreads his undead curse, requiring the combined efforts of Dr. Van Helsing and his allies to finally defeat him.', 'stop_reason': 'stop_sequence'}
+
+2023-10-28 14:57:05,196 - utilities - INFO - Response body: {'completion': ' Here are 3 examples of character types from the chapter:\n\nProtagonist - Jonathan Harker: The main protagonist. Struggles against Dracula and tries to protect his wife Mina.\n\nAntagonist - Count Dracula: The main antagonist. A vampire who attacks Mina and opposes the protagonists. \n\nConfidant - Dr. Van Helsing: Acts as a mentor and confidant to the protagonists, guiding them in their fight against Dracula with his knowledge.', 'stop_reason': 'stop_sequence'}
+
+2023-10-28 13:01:27,380 - utilities - INFO - Response body: {'completion': ' Here are 2-3 examples of literary devices found in the chapter:\n\n[Foreshadowing]: The howling of the dogs and wolves foreshadows impending danger and builds suspense. The driver\'s comment "For the dead travel fast" also foreshadows supernatural events to come.\n\n[Imagery]: Vivid imagery is used throughout to describe the scenery, people, and events, such as "the green grass under the trees spangled with the fallen petals". This helps create a rich, immersive setting.\n\n[Personification]: The mountains and cliffs are described as frowning down on the travelers, giving human traits to the landscape. This helps create an ominous, threatening mood.', 'stop_reason': 'stop_sequence'}
+```

@@ -65,7 +65,8 @@ def main():
                 (b) [Choice 2]
                 (c) [Choice 3]
                 (d) [Choice 3]
-                A: [Answer]
+                
+                A: (Letter) [Answer]
                 <template>
                 
                 Here is an example contained in the <example> tags below:
@@ -75,7 +76,7 @@ def main():
                 (b) Blue
                 (c) Green
                 (d) Yellow
-                A: Green
+                A: (c) Green
                 </example>
                 
                 <chapter>

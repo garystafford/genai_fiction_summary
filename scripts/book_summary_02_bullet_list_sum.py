@@ -1,3 +1,7 @@
+# Purpose: Creates a bullet-point summary of each chapter of a book.
+# Author: Gary A. Stafford
+# Date: 2023-10-28
+
 import datetime
 import logging
 import logging.config

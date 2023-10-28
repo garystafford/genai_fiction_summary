@@ -1,3 +1,7 @@
+# Purpose: Creates character descriptions of each chapter of a book.
+# Author: Gary A. Stafford
+# Date: 2023-10-28
+
 import logging.config
 
 from utilities import Utilities

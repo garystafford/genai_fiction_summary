@@ -1,3 +1,7 @@
+# Purpose: Prints the number of characters and words in each chapter of a book.
+# Author: Gary A. Stafford
+# Date: 2023-10-28
+
 import datetime
 import logging.config
 from statistics import mean
@@ -34,14 +38,15 @@ def main():
             chapter_lengths.append(chapter_length_tmp)
 
             # https://www.geeksforgeeks.org/python-program-to-count-words-in-a-sentence/
-            word_count_tmp = sum([i.strip(string.punctuation).isalpha() for i in chapter.split()])
+            word_count_tmp = sum(
+                [i.strip(string.punctuation).isalpha() for i in chapter.split()]
+            )
             word_count.append(word_count_tmp)
             # print(word_count_tmp)
             # print("\n")
             # print(len(chapter.split(" ")))
 
             print(f"Chapter: {i+1}\t{chapter_length_tmp}\t{word_count_tmp}")
-
 
         except Exception as ex:
             logger.error(ex)

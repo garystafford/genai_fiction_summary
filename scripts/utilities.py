@@ -1,3 +1,7 @@
+# Purpose: Utility functions for the book summary scripts.
+# Author: Gary A. Stafford
+# Date: 2023-10-28
+
 import json
 import logging
 import logging.config
@@ -10,13 +14,13 @@ from botocore.exceptions import ClientError
 class Utilities:
     # constructor
     def __init__(
-            self,
-            model="anthropic.claude-v2",
-            max_tokens_to_sample=500,
-            temperature=0.3,
-            top_k=250,
-            top_p=0.999,
-            stop_sequences=None
+        self,
+        model="anthropic.claude-v2",
+        max_tokens_to_sample=500,
+        temperature=0.3,
+        top_k=250,
+        top_p=0.999,
+        stop_sequences=None,
     ):
         if stop_sequences is None:
             stop_sequences = ["\n\nHuman:"]

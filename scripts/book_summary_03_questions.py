@@ -1,3 +1,7 @@
+# Purpose: Creates a multiple-choice question and answer summary of each chapter of a book.
+# Author: Gary A. Stafford
+# Date: 2023-10-28
+
 import datetime
 import logging
 import logging.config
@@ -31,7 +35,7 @@ def main():
     for i, chapter in enumerate(chapters):
         try:
             # prompt = "Generate a list of 3 hypothetical questions that the below chapter could be used to answer:"
-    
+
             # simple question and answer
             prompt = f"""Generate a list of 3 hypothetical questions that the following chapter, contained in the <chapter> tags below, could be used to answer. 
                 The Assistant will provide both the question and the answer.
@@ -52,7 +56,7 @@ def main():
                 <chapter>
                 {chapter.strip()}
                 </chapter>"""
-    
+
             # multiple choice question and answer
             prompt = f"""Generate a list of 3 hypothetical multiple-choice questions that the following chapter, contained in the <chapter> tags below, could be used to answer. 
                 The Assistant will provide the question, four possible answers, and the correct answer.
@@ -82,7 +86,7 @@ def main():
                 <chapter>
                 {chapter.strip()}
                 </chapter>"""
-        
+
             chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
             chapter_summary = f"\nChapter {i + 1}:\n{chapter_summary}\n\n"
             summary += chapter_summary

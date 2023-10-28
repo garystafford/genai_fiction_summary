@@ -1,5 +1,4 @@
 import datetime
-import logging
 import logging.config
 
 from utilities import Utilities
@@ -18,7 +17,7 @@ def main():
     with open(file_path, "r") as file:
         book_text = file.read()
 
-    utilities = Utilities("anthropic.claude-v2", 500, 0.0, 250, 0.999, ["\n\nHuman:"])
+    utilities = Utilities("anthropic.claude-v2", 500, 0.3, 250, 0.999, ["\n\nHuman:"])
 
     chapters = utilities.split_book(book_text)
 
@@ -34,8 +33,43 @@ def main():
             # summary 5a
             # prompt = "Provide a brief description of each character in the following chapter. Start each description with the name of the character followed by a colon, not a dash."
 
-            # summary 5b
-            # prompt = "Provide a bullet-point brief description of each character in the following chapter. Order the characters by how many times they are mentioned. Start each description with the name of the character followed by a colon, not a dash."
+            # # summary 5b1
+            # prompt = """### INSTRUCTIONS ###
+            #     Provide a bullet-point brief description of each character in the following chapter. Order the characters by how many times they are mentioned.
+            #     Here is an example: '- Pink Panther: A fictional animated character who is a suave and smooth-talking anthropomorphic panther.
+            #     Format each character like this: '- Character name: Description'.
+            #     ### CHAPTER ###"""
+
+            # # summary 5b2
+            # prompt = """### INSTRUCTIONS ###
+            #     Provide a bullet-point list of main characters and a brief description of each main character in the following chapter.
+            #     Follow the template below and fill in the information accordingly:
+            #     -[Character_Name]: [Description]
+            #     Here is an example: '- Pink Panther: A suave and smooth-talking anthropomorphic animated panther.
+            #     ### CHAPTER ###"""
+
+            # summary 5b3
+            prompt = """### INSTRUCTIONS ###
+                Provide a list of the 3-4 main characters and a brief description of each main character, in the following chapter. 
+                Follow the template below and fill in the information accordingly. Replace the placeholders with the relevant information: [Character_Name]: [Description]
+                Here is an example: 'Pink Panther: A suave and smooth-talking anthropomorphic animated panther.'
+                ### CHAPTER ###"""
+
+            # summary 5b3
+            prompt = f"""Provide a list of the 3-4 main characters and a brief description of each main character, in the following chapter. 
+                Follow the template below and replace the placeholders with the relevant information:
+                <template>
+                [Character_Name]: [Description]
+                <template>
+                
+                Here is an example:
+                <example>
+                Pink Panther: A suave and smooth-talking anthropomorphic animated panther.
+                </example>
+                
+                <chapter>
+                {chapter.strip()}
+                </chapter>"""
 
             # summary 5c
             # prompt = "Provide a bullet-point brief description of each geographic location in the following chapter. Order the locations by how many times they are mentioned.  Start each description with the name of the location followed by a colon, not a dash."
@@ -45,11 +79,11 @@ def main():
             # prompt = "Provide a bullet-point brief description of geographic locations in the following chapter. Format each location as '{location}: {description}'."
 
             # summary 5e
-            prompt = """### INSTRUCTIONS ###
-                Provide a bullet-point brief description of top three most-mentioned geographic locations in the following chapter. 
-                Here is an example: '- Hoboken, NJ: A New Jersey city on the Hudson River, containing many resturants and bars.
-                Format each bullet-point like this: '- Location: Description'.
-                ### CHAPTER ###"""
+            # prompt = """### INSTRUCTIONS ###
+            #     Provide a bullet-point brief description of top three most-mentioned geographic locations in the following chapter.
+            #     Here is an example: '- Hoboken, NJ: A New Jersey city on the Hudson River, containing many resturants and bars.
+            #     Format each bullet-point like this: '- Location: Description'.
+            #     ### CHAPTER ###"""
 
             # summary 5f
             # prompt = """### INSTRUCTIONS ###
@@ -77,22 +111,23 @@ def main():
             # prompt = """### INSTRUCTIONS ###
             #     Provide a bullet-point list of 3 single individual words that best describe the following chapter. Also, provide a brief reason for each word chosen. 
             #     Here is an example of a bullet-point: '- Relentless: The riders and thier hounds were desperately chasing after the poor fox.
-            #     Don't include the example in the reponse. Format each bullet-point like this: '- Word: Reason'
+            #     Don't include the example in the response. Format each bullet-point like this: '- Word: Reason'
             #     ### CHAPTER ###"""
 
             # summary 5h
             # prompt = """### INSTRUCTIONS ###
             #     The following list of literary devices are often found in fictional literature: 
             #     Allegory , Alliteration , Allusion, Amplification , Anagram, Analogy, Anthropomorphism, Antithesis, 
-            #     Chiasmus, Colloquialism, Circumlocution, Epigraph, Euphemism, Foreshadowing, Hyperbole, Imagery, 
+            #     Chiasmus, Colloquialism, Circumlocution, Epigraph, Euphemism, Foreshadowing, Hyperbole, Imagery,
             #     Metaphor, Mood, Motif, Onomatopoeia, Oxymoron, Paradox, Personification, Portmanteau, Puns, Satire, 
             #     Simile, Symbolism, and Tone.
-                
+
             #     Based on this list, give 2-3 examples of literary devices found in the following chapter from a fictional story and explain why.
-            #     Format each example like this: 'Literary device: Explaination'.
+            #     Format each example like this: 'Literary device: Explanation'.
             #     ### CHAPTER ###"""
 
-            chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
+            # chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
+            chapter_summary = utilities.create_summary_full_prompt(client_bedrock, prompt)
             chapter_summary = f"\nChapter {i + 1}:\n{chapter_summary}\n\n"
             summary += chapter_summary
             logger.info(f"Chapter {i + 1} completed...")
@@ -105,7 +140,7 @@ def main():
     logger.info(finish_time)
     summary += f"{finish_time}"
 
-    with open(f"../output/{title.lower()}_summary_05e.txt", "w") as f:
+    with open(f"../output/{title.lower()}_summary_05b.txt", "w") as f:
         f.write(summary)
 
 

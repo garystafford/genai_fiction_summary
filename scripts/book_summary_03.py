@@ -30,7 +30,24 @@ def main():
 
     for i, chapter in enumerate(chapters):
         try:
-            prompt = "Please provide a concise summary of the main points, events, and ideas covered in following chapter in 2-3 sentences:"
+            # prompt = """### INSTRUCTIONS ###
+            #     Write a concise one-paragraph summary of the main points, events, and ideas covered in following chapter.
+            #     Do not use bullet points. Construct a complete, grammatically-correct paragraph
+            #     ### CHAPTER ###"""
+
+            # prompt = f"""Write a concise one-paragraph summary of the main points, events, and ideas covered in following chapter.
+            #     Construct a complete, grammatically-correct paragraph. DO NOT use bullet points.
+            #
+            #     <chapter>
+            #     {chapter.strip()}
+            #     </chapter>"""
+
+            prompt = f"""Provide a bullet-point list of the 3-4 main points, events, and ideas covered in following chapter. 
+
+                <chapter>
+                {chapter.strip()}
+                </chapter>"""
+
             chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
             chapter_summary = f"\nChapter {i + 1}:\n{chapter_summary}\n\n"
             summary += chapter_summary
@@ -42,7 +59,7 @@ def main():
 
     logger.info(f"Finish time: {datetime.datetime.now()}")
 
-    with open(f"../output/{title.lower()}_summary_03.txt", "w") as f:
+    with open(f"../output/{title.lower()}_summary_03_bullets.txt", "w") as f:
         f.write(summary)
 
 

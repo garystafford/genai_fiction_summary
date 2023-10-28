@@ -1,5 +1,4 @@
 import datetime
-import logging
 import logging.config
 
 from utilities import Utilities
@@ -24,29 +23,17 @@ def main():
 
     client_bedrock = utilities.create_bedrock_connection()
 
-    summary = ""
-
     logger.info(f"Start time: {datetime.datetime.now()}")
 
     for i, chapter in enumerate(chapters):
         try:
-            prompt = """### INSTRUCTIONS ###
-                Please provide a concise bullet-point summary of the main points, events, and ideas covered in following chapter.
-                ### CHAPTER ###"""
-
-            chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
-            chapter_summary = f"\nChapter {i + 1}:\n{chapter_summary}\n\n"
-            summary += chapter_summary
-            logger.info(f"Chapter {i + 1} completed...")
+            utilities.count_tokens(client_bedrock, chapter)
+            logger.info(f"Chapter {i + 1} completed")
         except Exception as ex:
             chapter_summary = f"Chapter {i + 1} summary failed: {ex}"
             logger.error(chapter_summary)
-            summary += chapter_summary
 
     logger.info(f"Finish time: {datetime.datetime.now()}")
-
-    with open(f"../output/{title.lower()}_summary_02.txt", "w") as f:
-        f.write(summary)
 
 
 if __name__ == "__main__":

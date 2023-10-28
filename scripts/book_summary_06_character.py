@@ -11,27 +11,33 @@ def main():
 
     client_bedrock = utilities.create_bedrock_connection()
 
-    file_path = "../output/dracula_summary_05bv2.txt"
+    file_path = "../output/dracula_summary_05b.txt"
 
     # Open the file in read mode and read its contents into a string
     with open(file_path, "r") as file:
-        character_summary = file.read()
+        character_summaries = file.read()
 
-    prompt = """### INSTRUCTIONS ###
-        Using the summary below, write a one-paragraph description of the character, Dracula (aka Count Dracula):
-        ### SUMMARY ###"""
+    # prompt = """### INSTRUCTIONS ###
+    #     Using the summary below, write a one-paragraph description of the character, Dracula (aka Count Dracula):
+    #     ### SUMMARY ###"""
 
     # prompt = """### INSTRUCTIONS ###
     #     Using the summary below, write a one-paragraph description of the main character, Jonathan Harker:
     #     ### SUMMARY ###"""
 
+    prompt = f"""Write a concise, grammatically correct, one-paragraph description of the main character, Dracula (aka Count Dracula), based on the following individual character descriptions. 
+        The Assistant will refrain from using bullet-point lists.
+
+        <summaries>
+        {character_summaries}
+        </summaries>"""
     try:
-        summary = utilities.create_summary(client_bedrock, character_summary, prompt)
+        summary = utilities.create_summary_full_prompt(client_bedrock, prompt)
     except Exception as ex:
         logger.error(ex)
         exit(0)
 
-    with open(f"../output/dracula_summary.txt", "w") as f:
+    with open(f"../output/dracula_summary_v2.txt", "w") as f:
         f.write(summary)
 
 

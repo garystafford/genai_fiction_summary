@@ -49,27 +49,29 @@ def main():
             #     ### CHAPTER ###"""
 
             # summary 5b3
-            prompt = """### INSTRUCTIONS ###
-                Provide a list of the 3-4 main characters and a brief description of each main character, in the following chapter. 
-                Follow the template below and fill in the information accordingly. Replace the placeholders with the relevant information: [Character_Name]: [Description]
-                Here is an example: 'Pink Panther: A suave and smooth-talking anthropomorphic animated panther.'
-                ### CHAPTER ###"""
+            # prompt = """### INSTRUCTIONS ###
+            #     Provide a list of the 3-4 main characters and a brief description of each main character, in the following chapter. 
+            #     Follow the template below and fill in the information accordingly. Replace the placeholders with the relevant information: [Character_Name]: [Description]
+            #     Here is an example: 'Pink Panther: A suave and smooth-talking anthropomorphic animated panther.'
+            #     ### CHAPTER ###"""
 
             # summary 5b3
-            prompt = f"""Provide a list of the 3-4 main characters and a brief description of each main character, in the following chapter. 
-                Follow the template below and replace the placeholders with the relevant information:
-                <template>
-                [Character_Name]: [Description]
-                <template>
+            # prompt = f"""Provide a list of the 3-4 main characters and a brief description of each main character, in the chapter contained in the <chapter> tags below.
+            #     The Assistant will order the main characters by how many times they are mentioned.
+            #     The Assistant will number the characters.
+            #     Follow the template contained in the <template> tags below and replace the placeholders with the relevant information:
+            #     <template>
+            #     [Number]. [Character]: [Description]
+            #     <template>
                 
-                Here is an example:
-                <example>
-                Pink Panther: A suave and smooth-talking anthropomorphic animated panther.
-                </example>
+            #     Here is an example contained in the <example> tags below:
+            #     <example>
+            #     1. Pink Panther: A suave and smooth-talking anthropomorphic animated panther.
+            #     </example>
                 
-                <chapter>
-                {chapter.strip()}
-                </chapter>"""
+            #     <chapter>
+            #     {chapter.strip()}
+            #     </chapter>"""
 
             # summary 5c
             # prompt = "Provide a bullet-point brief description of each geographic location in the following chapter. Order the locations by how many times they are mentioned.  Start each description with the name of the location followed by a colon, not a dash."
@@ -126,6 +128,64 @@ def main():
             #     Format each example like this: 'Literary device: Explanation'.
             #     ### CHAPTER ###"""
 
+            # prompt = f"""The following list of literary devices, contained in the <literary_devices> tags below, are often found in fictional literature: 
+            #     <literary_devices>
+            #     Allegory, Alliteration, Allusion, Amplification, Anagram, Analogy, Anthropomorphism, Antithesis, 
+            #     Chiasmus, Colloquialism, Circumlocution, Epigraph, Euphemism, Foreshadowing, Hyperbole, Imagery, 
+            #     Metaphor, Mood, Motif, Onomatopoeia, Oxymoron, Paradox, Personification, Portmanteau, Puns, Satire, 
+            #     Simile, Symbolism, and Tone.
+            #     </literary_devices>
+
+            #     Based on this list of literary devices, give 2-3 examples of literary devices found in the chapter in the <chapter> tags below, and explain why.
+            #     The Assistant will not use square brackets in its response.
+
+            #     Follow the template contained in the <template> tags below and replace the placeholders with the literary device and the explanation:
+            #     <template>
+            #     [Literary_Device]: [Explanation]
+            #     <template>
+
+            #     <chapter>
+            #     {chapter.strip()}
+            #     </chapter>"""
+
+
+            prompt = f"""The following list of character types, contained in the <character_types> tags below, are often found in fictional literature: 
+                <character_types>
+                - Protagonist
+                - Antihero
+                - Antagonist
+                - Guide
+                - Contagonist
+                - Sidekicks (Deuteragonist)
+                - Henchmen
+                - Love Interest
+                - Temptress
+                - Confidant
+                - Foil
+                </character_types>
+
+                Based on this list of character types, give 3-4 examples of character types found in the chapter in the <chapter> tags below, including the character name and an explanation of why.
+                The Assistant will not use square brackets in its response.
+
+                Follow the template contained in the <template> tags below and replace the placeholders with the character name, character type, and explanation:
+                <template>
+                [Character_Name] - [Character_Type]: [Explanation]
+                <template>
+
+                Here is an example contained in the <example> tags below:
+                <example>
+                Love Interest - Minnie Mouse: Mickey Mouse's lifelong romantic interest.
+                </example>
+
+                <chapter>
+                {chapter.strip()}
+                </chapter>"""
+
+            #     Given the above list of character types, identify characters in the following chapter from a fictional story that fit these types. 
+            #     Only use these roles. If no character fits a type, ignore it. 
+            #     Here is an example: '- Love Interest - Minnie Mouse: Mickey Mouse's lifelong romatic interest.
+            #     Format each character like this: 'Character name - Character type: Description'.
+
             # chapter_summary = utilities.create_summary(client_bedrock, chapter, prompt)
             chapter_summary = utilities.create_summary_full_prompt(client_bedrock, prompt)
             chapter_summary = f"\nChapter {i + 1}:\n{chapter_summary}\n\n"
@@ -140,7 +200,7 @@ def main():
     logger.info(finish_time)
     summary += f"{finish_time}"
 
-    with open(f"../output/{title.lower()}_summary_05b.txt", "w") as f:
+    with open(f"../output/{title.lower()}_summary_05l.txt", "w") as f:
         f.write(summary)
 
 

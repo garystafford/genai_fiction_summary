@@ -131,7 +131,7 @@ class Utilities:
                     "stop_sequences": self.stop_sequences,
                 }
             )
-            self.logger.info(f"Request body: {body}")
+            self.logger.debug(f"Request body: {body}")
 
             accept = "application/json"
             content_type = "application/json"

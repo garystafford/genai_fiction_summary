@@ -17,7 +17,7 @@ def main():
     with open(file_path, "r") as file:
         chapter_summaries = file.read()
 
-    prompt = f"""Write a concise one-paragraph summary of the main points, events, and ideas covered in following individual chapter summaries. 
+    prompt = f"""Write a concise single-paragraph summary of the main points, events, and ideas covered in following individual chapter summaries. 
         Construct a complete, grammatically-correct paragraph. DO NOT use bullet points. 
 
         <chapter_summaries>

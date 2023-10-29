@@ -22,14 +22,14 @@ def main():
         character_summaries = file.read()
 
     # prompt = """### INSTRUCTIONS ###
-    #     Using the summary below, write a one-paragraph description of the character, Dracula (aka Count Dracula):
+    #     Using the summary below, write a single-paragraph description of the character, Dracula (aka Count Dracula):
     #     ### SUMMARY ###"""
 
     # prompt = """### INSTRUCTIONS ###
-    #     Using the summary below, write a one-paragraph description of the main character, Jonathan Harker:
+    #     Using the summary below, write a single-paragraph description of the main character, Jonathan Harker:
     #     ### SUMMARY ###"""
 
-    prompt = f"""Write a concise, grammatically correct, one-paragraph description of the main character, Dracula (aka Count Dracula), based on the following individual character descriptions. 
+    prompt = f"""Write a concise, grammatically correct, single-paragraph description of the main character, Dracula (aka Count Dracula), based on the following individual character descriptions. 
         The Assistant will refrain from using bullet-point lists.
 
         <summaries>

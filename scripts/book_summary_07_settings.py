@@ -56,7 +56,7 @@ def main():
 
                 Here is an example contained in the <example> tags below:
                 <example>
-                1. Hoboken, New Jersey: Part of the New York metropolitan area on the banks of the Hudson River across from lower Manhattan.
+                1. Hoboken, New Jersey: Part of the New York metropolitan area on the banks of the Hudson River across from lower Manhattan, where the story takes place.
                 </example>
 
                 <chapter>

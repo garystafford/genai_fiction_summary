@@ -77,20 +77,6 @@ def main():
             #     {chapter.strip()}
             #     </chapter>"""
 
-            # summary 5c
-            # prompt = "Provide a bullet-point brief description of each geographic location in the following chapter. Order the locations by how many times they are mentioned.  Start each description with the name of the location followed by a colon, not a dash."
-            # prompt = "Provide a bullet-point brief description of physical locations in the following chapter. Start each description with the name of the location followed by a colon (':')."
-
-            # summary 5d
-            # prompt = "Provide a bullet-point brief description of geographic locations in the following chapter. Format each location as '{location}: {description}'."
-
-            # summary 5e
-            # prompt = """### INSTRUCTIONS ###
-            #     Provide a bullet-point brief description of top three most-mentioned geographic locations in the following chapter.
-            #     Here is an example: '- Hoboken, NJ: A New Jersey city on the Hudson River, containing many resturants and bars.
-            #     Format each bullet-point like this: '- Location: Description'.
-            #     ### CHAPTER ###"""
-
             # summary 5f
             # prompt = """### INSTRUCTIONS ###
             #     The following types of characters are often found in fictional literature:

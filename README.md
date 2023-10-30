@@ -1,6 +1,6 @@
 # Mastering Long Document Insights: Advanced Summarization with Amazon Bedrock and Anthropic Claude 2 Foundation Model
 
-Unleash the Power of Generative AI for Comprehensive Document Analysis and Summarization.
+Unleash the Power of Generative AI for Comprehensive Document Analysis and Summarization. For more information, see the blog post: [Mastering Long Document Insights: Advanced Summarization with Amazon Bedrock and Anthropic Claude 2 Foundation Model](https://garystafford.medium.com/mastering-long-document-insights-advanced-summarization-with-amazon-bedrock-and-anthropic-claude-2-2fe13d5ae8d8).
 
 ## Commands
 
@@ -11,6 +11,8 @@ python3 -m venv summarize
 source summarize/bin/activate
 
 python3 -m pip install -r requirements.txt -Uq
+
+python ./book_summary_05_character.py
 ```
 
 ```sh

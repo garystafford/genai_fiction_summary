@@ -2,7 +2,14 @@
 
 Unleash the Power of Generative AI for Comprehensive Document Analysis and Summarization. For more information, see the blog post: [Mastering Long Document Insights: Advanced Summarization with Amazon Bedrock and Anthropic Claude 2 Foundation Model](https://garystafford.medium.com/mastering-long-document-insights-advanced-summarization-with-amazon-bedrock-and-anthropic-claude-2-2fe13d5ae8d8).
 
-## Commands
+## Notebook Examples
+
+The following Jupyter Notebook has all examples included in the blog post: [long_text_summarization.ipynb](long_text_summarization.ipynb).
+
+
+## Commands for Running Scripts
+
+The scripts were written prior to the notebook. The notebook is more current.
 
 ```sh
 python3 -m pip install virtualenv
@@ -13,10 +20,6 @@ source summarize/bin/activate
 python3 -m pip install -r requirements.txt -Uq
 
 python ./book_summary_05_character.py
-```
-
-```sh
-black *.py
 ```
 
 ## Output Examples

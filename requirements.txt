@@ -1,2 +1,3 @@
+anthropic
 boto3
 botocore

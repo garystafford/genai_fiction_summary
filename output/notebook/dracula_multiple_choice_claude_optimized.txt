@@ -16,17 +16,17 @@ A: C) A letter from Dracula
 
 Q: What does the old woman at the hotel give Jonathan before he departs?
 A) A crucifix
-B) Money
-C) Food for the journey 
+B) Money 
+C) Food for the journey
 D) Directions
-A: A) A crucifix 
+A: A) A crucifix
 
 Q: How does Jonathan travel through the Borgo Pass?
 A) By carriage
 B) By horse
 C) On foot
 D) By train
-A: A) By carriage
+A: A) By carriage 
 
 Q: Who greets Jonathan in the Borgo Pass?
 A) Dracula
@@ -38,8 +38,8 @@ A: B) The carriage driver
 Q: Where does Jonathan's journey end?
 A) The Golden Krone Hotel
 B) Dracula's castle
-C) Buda-Pesth
-D) A village in the Borgo Pass
+C) Bistritz
+D) Bukovina
 A: B) Dracula's castle
 
 
@@ -49,218 +49,218 @@ A) A collection of law books
 B) Shelves of books about England  
 C) Old newspapers and magazines
 D) Travel guides and maps
-A: (C) [Old newspapers and magazines]
+A: (C) Old newspapers and magazines
 
 Q: How does Dracula react when he sees that Jonathan has cut himself shaving? 
 A) He is concerned and helps bandage the cut
 B) He becomes furious and grabs Jonathan's throat  
 C) He warns Jonathan to be more careful 
 D) He does not notice and continues talking
-A: (B) [He becomes furious and grabs Jonathan's throat]
+A: (B) He becomes furious and grabs Jonathan's throat
 
-Q: What does Dracula do after seeing the blood from Jonathan's cut?
-A) He smashes the shaving mirror and throws it out the window
-B) He leaves the room without saying anything
-C) He helps clean and bandage the cut
-D) He warns Jonathan again to be careful 
-A: (B) [He leaves the room without saying anything]
+Q: What does Dracula do with the shaving mirror after seeing Jonathan's cut?
+A) He hides it away
+B) He throws it out the window
+C) He uses it to check his own reflection
+D) He hands it back to Jonathan carefully
+A: (B) He throws it out the window 
 
-Q: Why does Jonathan begin to feel uneasy about Dracula and Castle Dracula?
-A) Dracula does not eat or drink in front of him
-B) There are no mirrors or reflections of Dracula
-C) The castle is like a prison he cannot escape
-D) All of the above
-A: (D) [All of the above]
+Q: How does Jonathan feel about being alone in the castle with Dracula?
+A) He is comfortable and enjoys the solitude
+B) He is uneasy but tries to stay positive
+C) He is very afraid and wants to escape
+D) He does not mind since he is focused on his work
+A: (B) He is uneasy but tries to stay positive
 
-Q: How does Dracula justify wanting to live in an old castle instead of a new house?
-A) He claims old families should not live in new houses
-B) He says he loves the shadows and decay 
-C) He wants to be isolated from modern life
-D) He believes old castles are more habitable
-A: (B) [He says he loves the shadows and decay]  
+Q: What does Jonathan discover when he tries to find an exit from the castle?
+A) The main door is unlocked 
+B) There are many hidden passages
+C) All doors and windows are locked or bolted
+D) The courtyard leads to the nearby village
+A: (C) All doors and windows are locked or bolted
 
-Q: What does Jonathan discover when he tries to explore and leave Castle Dracula?
-A) Many doors are locked and there are no exits
-B) The castle is full of hidden treasure
-C) The castle is bigger than it looks from the outside
-D) The castle is well-lit with many windows  
-A: (A) [Many doors are locked and there are no exits]
+Q: Why does Jonathan say the castle is "a veritable prison"?
+A) The rooms are cold and dark
+B) Dracula locks him in at night
+C) There are no usable exits
+D) The courtyard is enclosed by a high wall
+A: (C) There are no usable exits
 
 
 Chapter 3:
 Q: What does Jonathan Harker realize after finding he is a prisoner in Castle Dracula?
 A) He is helpless and must keep his wits about him  
-B) He must try to befriend Count Dracula
-C) He should look for secret passages out of the castle
-D) He should pretend he is not a prisoner
+B) He must try to befriend the Count
+C) He should look for secret passages out
+D) He should pretend to be insane
 A: A
 
-Q: How does Jonathan feel when he sees Count Dracula crawling down the castle wall?
-A) Amused 
-B) Afraid
-C) Confused
-D) Angry
+Q: How does the Count respond when Jonathan asks if an Englishman can have multiple solicitors? 
+A) He says it would be unwise and suspicious
+B) He agrees it would be practical in some business matters
+C) He doesn't understand the English legal system
+D) He insists Jonathan must only have one solicitor
 A: B
 
-Q: What does Jonathan decide to do after the Count tells him not to sleep anywhere but his own room?
-A) Explore the castle during the day
-B) Barricade his door at night
-C) Sleep in the Count's coffin room
-D) Leave notes to track the Count's movements
+Q: What does the Count tell Jonathan about the history of his people?
+A) They were brave warriors who fought many battles 
+B) They were peasants who worked the land
+C) They were nomads who traveled from place to place
+D) They were scholars and artists
 A: A
 
-Q: What does Jonathan see when he looks out the window late at night? 
-A) The Count meeting with other vampires
-B) The Count climbing down the castle wall
-C) Wolves surrounding the castle 
-D) The Count's wives beckoning him
+Q: Why does the Count want Jonathan to write letters assuring everyone he is safe?
+A) So Jonathan's friends won't come looking for him
+B) Because he is holding Jonathan prisoner
+C) Because he wants Jonathan to spy on his friends
+D) So Jonathan won't be lonely
 A: B
 
-Q: How does Jonathan feel when the Count's wives visit him in his room?
-A) Afraid
-B) Angry
-C) Tempted
-D) Disgusted
-A: C  
+Q: What does Jonathan see when he looks out the window late at night?
+A) The Count climbing down the castle wall
+B) Villagers with torches approaching 
+C) A pack of wolves surrounding the castle
+D) Mina arriving in a carriage
+A: A  
 
-Q: What happens after Jonathan loses consciousness at the end of the chapter?
-A) The Count drinks his blood
-B) The Count's wives attack him
-C) He awakens alone in the room
-D) He tries to escape the castle
+Q: How does Jonathan feel when the three vampire women visit him?
+A) Frightened
+B) Disgusted 
+C) Attracted 
+D) Confused
 A: C
 
 
 Chapter 4:
 Q: What does Jonathan Harker discover upon waking up in his bed?
-A) He had been sleepwalking 
-B) The Count had moved him there
-C) He had dreamt everything 
-D) His clothes were neatly folded  
-A: (B) The Count had moved him there
+A) His clothes were neatly folded  
+B) His watch was still wound  
+C) His diary was undisturbed
+D) The door was locked from the outside
+A: B) His watch was still wound
 
-Q: Why does Jonathan pretend to agree with the Count about writing letters home?
+Q: How does Jonathan know that Count Dracula carried him to his bed?
+A) He has no memory of going to bed himself 
+B) His clothes were folded in an unusual manner
+C) The door was locked from the outside
+D) All of the above
+A: D) All of the above
+
+Q: Why does Jonathan pretend to agree with the Count about sending letters home?
 A) He wants to avoid making the Count suspicious  
-B) He hopes the letters won't actually be sent
-C) He doesn't want to anger the Count
-D) He is too afraid to refuse
-A: (A) He wants to avoid making the Count suspicious
+B) He hopes to secretly warn his friends with coded messages
+C) He is afraid the Count will destroy the letters
+D) All of the above
+A: D) All of the above
 
-Q: How does Jonathan learn that the Count can climb the castle wall? 
-A) By seeing the Count crawl out his window
-B) From reading the Count's journal
-C) The Szgany tell him
-D) He guesses after finding his room locked  
-A: (A) By seeing the Count crawl out his window
+Q: How does Jonathan learn the Count's plans to leave the castle?
+A) The Count tells him directly
+B) He overhears the Count talking to himself  
+C) He sees the Count leaving dressed in his clothes
+D) The Szgany gypsies tell him
+A: C) He sees the Count leaving dressed in his clothes
 
-Q: What does Jonathan take with him when he attempts to escape from the castle?
-A) A gun 
-B) A shovel
-C) Some gold coins
-D) The key to his room
-A: (C) Some gold coins
+Q: What does Jonathan discover in the third vault in the chapel? 
+A) Piles of dirt and empty coffins
+B) The sleeping body of Count Dracula
+C) Chains and old ornaments  
+D) A secret passage out of the castle
+A: B) The sleeping body of Count Dracula
 
-Q: What does Jonathan use to try to kill the Count while he lies in his box?
-A) A wooden stake  
-B) A crucifix
-C) A shovel 
-D) Garlic
-A: (C) A shovel
-
-Q: Why does Jonathan become trapped in the castle after trying to kill the Count?
-A) The Count wakes up and locks him in
-B) The door to the stairs blows shut 
-C) The Szgany block his way out
-D) The ghostly women prevent his escape
-A: (B) The door to the stairs blows shut
+Q: How does Jonathan try to kill Count Dracula towards the end?
+A) With a gun he found in the castle
+B) By pushing him out the window
+C) With a shovel to the head
+D) With a wooden stake
+A: C) With a shovel to the head
 
 
 Chapter 5:
-Q: What was Mina Murray's profession?
-A) Teacher  
-B) Nurse
-C) Assistant schoolmistress
-D) Doctor
-A: (C) Assistant schoolmistress
+Q: Who does Lucy say she loves in her letter to Mina?
+A) Jonathan Harker  
+B) Quincey Morris
+C) Jack Seward
+D) Arthur Holmwood
+A: (D) Arthur Holmwood
 
-Q: Who was Lucy Westenra engaged to? 
-A) Quincey P. Morris
-B) Jack Seward 
+Q: Who proposes to Lucy first? 
+A) Quincey Morris
+B) Jack Seward  
 C) Arthur Holmwood
 D) Jonathan Harker
-A: (C) Arthur Holmwood
+A: (B) Jack Seward
 
-Q: What did Dr. Seward use to keep notes on his patient Renfield?
-A) Diary  
-B) Letters
-C) Phonograph
-D) Telegram
-A: (C) Phonograph 
+Q: What does Renfield eat that concerns Dr. Seward?
+A) Spiders
+B) Flies
+C) Worms
+D) Rats 
+A: (B) Flies
 
-Q: How many marriage proposals did Lucy Westenra receive in one day?
-A) 1
-B) 2
-C) 3
-D) 4
-A: (C) 3
+Q: What does Quincey Morris compare his relationship with Arthur Holmwood to?
+A) Brothers
+B) Old war buddies
+C) Childhood friends
+D) Business partners
+A: (B) Old war buddies 
 
-Q: Who was the patient at the lunatic asylum that Dr. Seward studied?
-A) Lucy Westenra
-B) Mina Murray  
-C) Quincey P. Morris
-D) R.M. Renfield
-A: (D) R.M. Renfield
+Q: Where does Lucy meet Arthur Holmwood?
+A) At home 
+B) At a dinner party
+C) At the opera
+D) At a picnic
+A: (B) At a dinner party
 
-Q: Where did Quincey P. Morris invite Arthur Holmwood to meet?
-A) Lunatic asylum
-B) Campfire 
-C) Dinner party
-D) Korea
-A: (B) Campfire
+Q: Who does Lucy say proposed to her three times in one day?
+A) Arthur, Quincey and Jack
+B) Jonathan, Arthur and Quincey  
+C) Jack, Jonathan and Arthur
+D) Quincey, Jack and Arthur
+A: (D) Quincey, Jack and Arthur
 
 
 Chapter 6:
-Q: What does Mr. Swales think about the legends and stories of Whitby?
-A) He believes they are entertaining fictions for tourists 
-B) He thinks they are disrespectful lies told about the dead
-C) He enjoys sharing the stories with visitors to Whitby
-D) He is unsure if the legends are true or not
-A: B) He thinks they are disrespectful lies told about the dead
+Q: What does Mina Murray record in her journal?
+A) Her dreams  
+B) Her thoughts and activities  
+C) Her conversations with others
+D) Her shopping lists
+A: (B) Her thoughts and activities
 
-Q: How does Renfield hope to achieve absorbing many lives?
-A) By killing flies and feeding them to spiders 
-B) By catching flies to feed his pet sparrows
-C) By eating flies, spiders, birds, and hoping for a cat
-D) By writing down mathematical formulas in his notebook  
-A: C) By eating flies, spiders, birds, and hoping for a cat
+Q: What does Mina learn about Lucy's sleeping habits? 
+A) Lucy has started sleepwalking again  
+B) Lucy talks in her sleep
+C) Lucy snores very loudly
+D) Lucy sleeps through the night soundly
+A: (A) Lucy has started sleepwalking again
 
-Q: Why does Lucy walk in her sleep?
-A) She is anxious about her upcoming wedding
-B) She wants to go up to the churchyard cliff
-C) She is copying her father's sleepwalking habit
-D) She is trying to find the key to unlock the door
-A: A) She is anxious about her upcoming wedding
+Q: What does Dr. Seward notice about Renfield's behavior?
+A) Renfield has become obsessed with catching flies
+B) Renfield refuses to eat anything 
+C) Renfield has violent outbursts
+D) Renfield isolates himself in his room
+A: (A) Renfield has become obsessed with catching flies  
 
-Q: How does Jonathan's last letter make Mina feel?
-A) Puzzled, as it seems out of character 
-B) Annoyed that he hasn't written in so long
-C) Worried that Jonathan might be ill
-D) Sad that Jonathan is not missing her
-A: A) Puzzled, as it seems out of character
+Q: What does the old seaman tell Mina about the gravestones in the churchyard?
+A) They contain the bodies of sailors lost at sea
+B) They are beautifully carved works of art
+C) Most of the information on them is false
+D) They are too worn to read anymore
+A: (C) Most of the information on them is false
 
-Q: What happens when the coastguard looks at the strange ship? 
-A) He recognizes it as a Russian ship
-B) He watches it run aground in the storm  
-C) He sees it has trouble deciding which way to go
-D) He knows it will wreck by tomorrow 
-A: C) He sees it has trouble deciding which way to go
+Q: Why is Jonathan's letter to Mina concerning?
+A) It is unusually brief 
+B) The handwriting is not his
+C) It contains troubling news
+D) It is dated months prior
+A: (A) It is unusually brief
 
-Q: How does Mr. Swales feel about dying?
-A) He wants to live as long as possible
-B) He is trying not to think about it 
-C) He is at peace with the inevitability of death
-D) He hopes to avoid dying through prayer
-A: C) He is at peace with the inevitability of death
+Q: What does the coastguard notice about the strange ship?
+A) It is sailing directly towards the storm
+B) It is moving erratically 
+C) It is sending distress signals
+D) It is heavily damaged
+A: (B) It is moving erratically
 
 
 Chapter 7:
@@ -271,113 +271,113 @@ C) The Demeter
 D) The Mina
 A: (C) The Demeter
 
-Q: What was lashed to the helm of the ship when it arrived in Whitby harbour?
+Q: What was lashed to the helm of the ship when it arrived in Whitby harbor?
 A) A dead crew member
 B) A crucifix 
 C) A dog
 D) Boxes of earth
 A: (A) A dead crew member
 
-Q: What was the cargo on the ship?
-A) Silver sand and wooden boxes 
-B) Spices and silk
-C) Fruits and vegetables
-D) Gold and treasure  
-A: (A) Silver sand and wooden boxes
+Q: What cargo was the ship carrying?
+A) Silver coins
+B) Wooden boxes of mould
+C) Gold bars
+D) Spices
+A: (B) Wooden boxes of mould  
 
-Q: Who was found dead on the cliffside seat? 
+Q: Who was the cargo consigned to in Whitby? 
 A) Jonathan Harker
-B) Mr. Swales
-C) A dog 
-D) The ship captain
-A: (B) Mr. Swales
+B) Mina Murray
+C) Lucy Westenra 
+D) Mr. Billington  
+A: (D) Mr. Billington
 
-Q: What happened when a dog was brought to the funeral service?
-A) It howled loudly
-B) It attacked Lucy
-C) It sat quietly by its owner
-D) It chased away the mourners
-A: (A) It howled loudly 
+Q: How did the sea captain die on the ship?
+A) He was murdered
+B) He got sick 
+C) He committed suicide
+D) He was lashed to the wheel
+A: (C) He committed suicide
 
-Q: Why did Mina decide to take Lucy on a long walk after the funeral?
-A) To get exercise
-B) To go shopping
-C) To make her tired so she wouldn't sleepwalk
-D) To cheer her up
-A: (C) To make her tired so she wouldn't sleepwalk
+Q: What happened to the large dog that jumped off the ship when it arrived in Whitby?
+A) It was adopted by a family
+B) It disappeared  
+C) It was found dead
+D) It stayed on the ship
+A: (B) It disappeared
 
 
 Chapter 8:
 Q: What does Lucy experience that concerns Mina?
-A) Lucy has nightmares 
-B) Lucy sleepwalks outside
-C) Lucy faints frequently
-D) Lucy hears strange noises
-A: B) Lucy sleepwalks outside
+A) Lucy has vivid nightmares.
+B) Lucy sleepwalks outside at night.  
+C) Lucy faints frequently.
+D) Lucy hears strange noises at night.
+A: (B) Lucy sleepwalks outside at night.
 
-Q: What does Dr. Seward observe about Renfield's behavior?
-A) Renfield becomes violent 
-B) Renfield refuses to eat spiders
-C) Renfield claims he is God
-D) Renfield acts servile and respectful
-A: C) Renfield claims he is God 
+Q: What does Dr. Seward observe about Renfield's behavior?   
+A) Renfield becomes increasingly polite and obedient.
+B) Renfield starts having religious delusions.
+C) Renfield loses interest in his spider hobby.
+D) Renfield tries to escape from the asylum. 
+A: (D) Renfield tries to escape from the asylum.
 
-Q: Why does Mina travel to Budapest?
-A) To marry Jonathan there
-B) To care for Jonathan while he is ill 
-C) To investigate Lucy's sleepwalking 
-D) To visit a sanatorium 
-A: B) To care for Jonathan while he is ill
+Q: What does Mina learn about Jonathan Harker's situation?
+A) Jonathan has recovered and is coming home soon.  
+B) Jonathan is still very ill and unable to write.
+C) Jonathan has run out of money and can't afford treatment.   
+D) Jonathan has died from his illness.
+A: (B) Jonathan is still very ill and unable to write.
 
-Q: What does Sister Agatha's letter reveal about Jonathan? 
-A) He is completely cured
-B) He is still weak but recovering  
-C) He has died from his illness
-D) He has become violent and deranged
-A: B) He is still weak but recovering
+Q: What does Lucy ask Mina not to tell anyone?
+A) That Lucy has frequent nightmares.
+B) That Lucy fainted outside at night. 
+C) That Lucy hears strange noises at night.  
+D) That Lucy was sleepwalking outside.
+A: (D) That Lucy was sleepwalking outside.
 
-Q: How does Renfield escape from his cell?
-A) He tricks the attendant 
-B) He hides until nighttime
-C) He breaks the door down
-D) He climbs out the window
-A: D) He climbs out the window
+Q: Why does Renfield say "The Master is at hand"?
+A) Renfield believes he will be rewarded by God.
+B) Renfield expects to be visited by Dr. Seward.  
+C) Renfield thinks he will become a vampire.  
+D) Renfield expects to escape the asylum soon.
+A: (C) Renfield thinks he will become a vampire.
 
-Q: Why does Mina say "Joy, joy, joy! although not all joy" in her journal?
-A) She is happy Jonathan is better but sad Lucy is ill
-B) She is excited to marry Jonathan but nervous about traveling 
-C) She is hopeful about Jonathan but worried he is still unstable
-D) She is pleased Jonathan wrote but unhappy the letter took so long
-A: C) She is hopeful about Jonathan but worried he is still unstable
+Q: Why does Lucy seem to be getting weaker?
+A) Lucy has lost her appetite.
+B) Lucy has frequent nightmares.
+C) Lucy caught a serious chill outside.
+D) Lucy has mysterious wounds on her neck.
+A: (D) Lucy has mysterious wounds on her neck.
 
 
 Chapter 9:
 Q: What does Mina Harker tell Lucy Westenra about Jonathan Harker's condition when she arrives in Budapest?
-A) He is physically weak but mentally sound  
+A) He is physically weak but mentally sound 
 B) He is physically and mentally healthy
 C) He is physically weak and has memory issues
 D) He is physically fit but depressed
 A: (C) He is physically weak and has memory issues
 
 Q: Why does Van Helsing come to London?
-A) To attend Lucy and Mina's wedding  
+A) To attend Lucy and Mina's wedding 
 B) To help treat Renfield's illness
 C) To examine Lucy at Dr. Seward's request
 D) To visit an old friend 
-A: (C) To examine Lucy at Dr. Seward's request
+A: (C) To examine Lucy at Dr. Seward's request 
 
 Q: What does Van Helsing conclude after examining Lucy?
-A) She has a functional disturbance 
-B) She is anemic
-C) She is perfectly healthy
-D) She has a mental illness
-A: (B) She is anemic
+A) She has a terminal illness 
+B) She is perfectly healthy
+C) She needs a blood transfusion
+D) She is anemic
+A: (D) She is anemic
 
-Q: How does Renfield react when he sees Van Helsing? 
+Q: How does Renfield react when he sees Van Helsing?
 A) With fear
 B) With anger
-C) With indifference
-D) With joy
+C) With curiosity
+D) With indifference
 A: (A) With fear
 
 Q: What happens to Renfield at noon and sunset?
@@ -387,100 +387,100 @@ C) He sleepwalks
 D) He faints
 A: (A) He becomes violent
 
-Q: Why does Dr. Seward urgently telegram Van Helsing to return?
+Q: Why does Dr. Seward urgently telegram Van Helsing to return?  
 A) Renfield's condition has improved
-B) Lucy's condition has worsened severely 
-C) He misses his friend
-D) He wants a second opinion on Renfield
+B) Lucy's condition has worsened severely
+C) Jonathan Harker has gone missing
+D) Mina is ill
 A: (B) Lucy's condition has worsened severely
 
 
 Chapter 10:
-Q: What does Dr. Seward tell Arthur Holmwood in his letter?
-A) That Lucy is very ill and he should come see her 
-B) That Van Helsing is coming to help treat Lucy
-C) That Lucy is getting better and not to worry
-D) That he should not visit Lucy for a while
-A: (B) That Van Helsing is coming to help treat Lucy
+Q: What does Dr. Van Helsing rub on the windows and door of Lucy's room?
+A) Garlic flowers 
+B) Medicinal herbs
+C) Holy water
+D) Warding sigils
+A: A) Garlic flowers
 
-Q: What does Van Helsing rub on the window sashes and door in Lucy's room?
-A) Salt 
-B) Holy water
-C) Garlic
-D) Silver
-A: (C) Garlic
+Q: Why does Dr. Van Helsing want Lucy to wear a wreath of garlic flowers?
+A) To cure her illness
+B) To protect her from evil spirits  
+C) To make her room smell nice
+D) As a joke to scare her
+B: B) To protect her from evil spirits
 
-Q: Why does Van Helsing perform a blood transfusion on Lucy?
-A) Because she lost a lot of blood
-B) To give her strength 
-C) As an experiment
-D) To cure her insomnia
-A: (A) Because she lost a lot of blood
+Q: What does Dr. Van Helsing transfuse into Lucy to try to save her life? 
+A) Medicine
+B) Blood  
+C) Holy water
+D) Garlic juice
+B: B) Blood
 
-Q: What does Lucy put around her neck?
-A) A crucifix
-B) A wreath of garlic flowers
-C) A locket with a photo of her mother
-D) A ribbon
-A: (B) A wreath of garlic flowers
+Q: Why can't Arthur be told about Lucy's worsening condition?
+A) It would frighten him
+B) He is away on a trip
+C) He doesn't care about Lucy
+D) Van Helsing dislikes him
+A: A) It would frighten him
 
-Q: Why does Van Helsing fasten the windows shut in Lucy's room?
-A) To keep out mosquitos
-B) To block out sunlight so she can sleep
-C) To keep the room warm
-D) To prevent an "evil spirit" from entering
-A: (D) To prevent an "evil spirit" from entering  
+Q: What happens after Lucy appears to be getting better?
+A) She relapses and gets worse again
+B) She makes a full recovery
+C) She turns into a vampire
+D) She dies
+A: A) She relapses and gets worse again  
 
-Q: What does Van Helsing rub on Lucy's door and fireplace?
-A) Holy oil
-B) Garlic
-C) Wolfsbane
-D) Silver nitrate 
-A: (B) Garlic
+Q: Why does Van Helsing want John Seward to watch over Lucy?
+A) Because he doesn't trust Arthur
+B) To monitor her condition
+C) To protect her from vampires
+D) Because he needs to go away
+C: B) To monitor her condition
 
 
 Chapter 11:
 Q: What does Lucy Westenra write in her diary on September 12th?
 A) She is afraid of the noises outside her window 
 B) She feels comforted by the flowers Dr. Van Helsing brought
-C) She is looking forward to Dr. Seward's visit
-D) She had a nightmare about wolves  
+C) She is thankful for her mother and friends 
+D) She had a peaceful night's sleep
 A: (B) She feels comforted by the flowers Dr. Van Helsing brought
 
-Q: What does Dr. Seward find Mr. Renfield doing in his study?
-A) Reading his books 
-B) Looking out the window
-C) Licking up blood from Dr. Seward's wound
-D) Sleeping in a chair
-A: (C) Licking up blood from Dr. Seward's wound
+Q: What does Dr. Seward find Mr. Renfield doing after Renfield attacks him?
+A) Apologizing for attacking him
+B) Licking up the blood from Dr. Seward's wound
+C) Laughing maniacally 
+D) Trying to escape
+A: (B) Licking up the blood from Dr. Seward's wound
 
-Q: How does Thomas Bilder explain the wolf's escape from the zoo?
-A) It was let out by a stranger with red eyes 
-B) The wolf was able to bend the bars and escape
-C) The wolf wanted to get out and find food
-D) Another wolf from outside broke him out
-A: (C) The wolf wanted to get out and find food
+Q: How does the zookeeper describe the escaped wolf's behavior?
+A) Aggressive and violent 
+B) Timid and hiding
+C) Playful like a dog
+D) Hungry and hunting for food
+A: (B) Timid and hiding
 
-Q: What does Lucy Westenra describe happening the night of September 17th?
-A) She had a nightmare about wolves
-B) She found her mother dead in her room 
-C) A wolf appeared in her window and attacked
-D) Dr. Seward stayed overnight to watch over her
-A: (C) A wolf appeared in her window and attacked
+Q: What does Lucy find outside her window the night her mother dies?
+A) A large bat
+B) Dr. Van Helsing 
+C) A grey wolf
+D) Her mother sleepwalking
+A: (C) A grey wolf
 
-Q: Why does Dr. Seward say he cannot afford to lose blood?
-A) Because he gave too much in transfusions to Lucy
-B) Because he was recently sick and is still weak
-C) Because he is afraid of needles and injections
-D) Because he is squeamish at the sight of blood
-A: (A) Because he gave too much in transfusions to Lucy
+Q: How does Lucy's mother die?
+A) A wolf attacks her
+B) She falls out of bed
+C) She takes an overdose of laudanum
+D) Lucy strangles her
+A: (C) She takes an overdose of laudanum 
 
-Q: What does Lucy Westenra decide to do on the night of September 17th? 
-A) Barricade her windows shut
-B) Call Dr. Seward to come help
-C) Hide under her bed sheets
-D) Write down what happens and hide it
-A: (D) Write down what happens and hide it
+Q: What does Lucy plan to do after finding her mother dead?
+A) Escape out the window
+B) Hide her mother's body
+C) Call the police
+D) Commit suicide 
+A: (D) Commit suicide
 
 
 Chapter 12:
@@ -492,127 +492,127 @@ D) Computer
 A: (C) Phonograph
 
 Q: What does Lucy tear up while she is sleeping? 
-A) A letter from Mina
-B) The paper Van Helsing gave to Dr. Seward
-C) Her mother's will
-D) A telegram from Arthur
-A: (B) The paper Van Helsing gave to Dr. Seward
-
-Q: How does Lucy die?
-A) From a fall out her window 
-B: From loss of blood
-C) In her sleep
-D) From a heart attack
-A: (C) In her sleep
+A) The garlic flowers around her neck
+B) A letter from Mina
+C) The paper Van Helsing gave to Dr. Seward
+D) Her bed sheets
+A: (C) The paper Van Helsing gave to Dr. Seward
 
 Q: Who arrives at the house to help Lucy?
-A) John Seward
-B) Quincey Morris 
-C) Arthur Holmwood
-D) Abraham Van Helsing
+A) Jonathan Harker 
+B) Quincey Morris
+C) Jack Seward
+D) Arthur Holmwood
 A: (B) Quincey Morris
 
-Q: What unusual change happens to Lucy's teeth as she is dying?
-A) They turn black
-B) They fall out
-C) They appear longer and sharper
-D) They crack and break
-A: (C) They appear longer and sharper  
+Q: How does Lucy die?
+A) From a vampire bite
+B) From a stake through the heart
+C) From loss of blood
+D) From heart disease
+A: (A) From a vampire bite  
 
-Q: What does Van Helsing mean when he says Lucy's death is "only the beginning"?
-A) Lucy will come back to life
-B) They will have to kill Lucy again
-C) Lucy's soul is not at peace 
-D) More deaths are coming
-A: (D) More deaths are coming
+Q: What does Van Helsing realize after Lucy dies?
+A) That she will become a vampire
+B) That he made a mistake in her treatment
+C) That she is finally at peace
+D) That he loved her
+A: (A) That she will become a vampire
+
+Q: What does Quincey Morris use to kill one of the carriage drivers?
+A) A wooden stake
+B) Garlic
+C) A crucifix 
+D) A gun
+A: (D) A gun
 
 
 Chapter 13:
-Q: What does Van Helsing want to do with Lucy's body?
+Q: What does Van Helsing want to do with Lucy's body after her death?
 A) Cremate it  
 B) Bury it at sea
 C) Decapitate it and remove the heart
 D) Leave it untouched
 A: (C) Decapitate it and remove the heart
 
-Q: Why does Van Helsing want to mutilate Lucy's body?
+Q: Why does Van Helsing want to mutilate Lucy's corpse?
 A) For revenge 
 B) For scientific research
 C) To prevent her from becoming a vampire
-D) To autopsy the body
+D) To hide evidence of her illness
 A: (C) To prevent her from becoming a vampire  
 
-Q: Who does Lucy's estate go to after her death?
-A) Her mother
-B) Arthur Holmwood  
-C) Dr. Seward
-D) Van Helsing
-A: (B) Arthur Holmwood
+Q: What does Jonathan find shocking when he sees the mysterious man again?
+A) That the man has grown younger
+B) That the man is a vampire 
+C) That the man is following them
+D) That the man is no longer wearing black
+A: (A) That the man has grown younger
 
-Q: What does Jonathan find strange about the man he sees in London?
-A) His clothes 
-B) His accent
-C) His teeth
-D) His height
-A: (C) His teeth
+Q: How does Quincey Morris help Arthur after Lucy's death? 
+A) By making funeral arrangements
+B) By accompanying him back home 
+C) By donating money for the funeral
+D) By investigating Lucy's death
+A: (B) By accompanying him back home
 
-Q: What happens to the children who go missing on Hampstead Heath?
-A) They get lost
-B) They are kidnapped
-C) They are bitten on the neck  
-D) They wander off on their own 
-A: (C) They are bitten on the neck
+Q: Why does Van Helsing laugh uncontrollably after Lucy's funeral?
+A) Because he finds funerals amusing
+B) To relieve the tension and grief  
+C) Because he is going insane
+D) To upset the others 
+A: (B) To relieve the tension and grief
 
-Q: Who turns out to be the "Bloofer Lady"?
-A) Mrs. Westenra
-B) Lucy
-C) Mina
-D) The story does not say
-A: (D) The story does not say
+Q: Who writes the diary entry about the "Bloofer Lady"?
+A) Mina Harker
+B) Lucy Westenra
+C) Abraham Van Helsing 
+D) John Seward
+A: (A) Mina Harker
 
 
 Chapter 14:
-Q: What does Van Helsing come to see Mina about?
-A) Lucy's death  
-B) Jonathan's illness
-C) Mina's sleepwalking 
-D) Dracula's return to London
-A: A) Lucy's death
+Q: What does Van Helsing ask Mina Harker to help him with?
+A) To kill Count Dracula
+B) To cure Jonathan Harker's brain fever  
+C) To understand what happened to Lucy Westenra
+D) To find out more about vampires in general
+A: C) To understand what happened to Lucy Westenra
 
-Q: How does Van Helsing say he is able to read Lucy's letters and papers?
-A) Lucy's mother gave them to him
-B) Lord Godalming allowed him access
-C) Dr. Seward shared them with him
-D) He stole them from Lucy's home
-A: B) Lord Godalming allowed him access
+Q: What does Van Helsing praise Jonathan Harker for in his letter to Mina?
+A) His intelligence 
+B) His bravery
+C) His kindness
+D) His faithfulness
+A: B) His bravery
 
-Q: What does Van Helsing implore Mina to help him with?
-A) Curing Jonathan's brain fever
-B) Understanding Lucy's sleepwalking 
-C) Redressing a great wrong
-D) Finding Dracula's London lair
-A: C) Redressing a great wrong
+Q: How does Van Helsing say he knows about Mina's character? 
+A) From her diary 
+B) From her letters to Lucy
+C) From speaking to Dr. Seward
+D) From his skills as a physiognomist
+A: B) From her letters to Lucy
 
-Q: What does Van Helsing promise Mina if he can ever help her or her loved ones?
-A) He will protect them from Dracula
-B) He will provide financial assistance
-C) He will do anything he can to help them
-D) He will use his influence to aid Jonathan's career
-A: C) He will do anything he can to help them
+Q: What does Dr. Seward initially believe was the cause of death for the children found in Hampstead?
+A) A wild animal attack
+B) Nervous system failure
+C) Loss of blood
+D) Poisoning
+A: C) Loss of blood 
 
-Q: Why does Van Helsing want to read Jonathan's journal entries from his time abroad?
-A) To learn more about Dracula's origins and powers
-B) To find clues about Lucy's strange illness
-C) To gather information about the local customs
-D) To study the history of Transylvania
-A: A) To learn more about Dracula's origins and powers  
+Q: What does Van Helsing want Dr. Seward to do regarding supernatural phenomena?
+A) Accept them as fact
+B) Reject them entirely
+C) Remain objective  
+D) Avoid thinking about them
+A: A) Accept them as fact
 
-Q: What does Van Helsing reveal shocked him in the newspaper article?
-A) Reports of children being kidnapped
-B) Sightings of Dracula around London
-C) Details about Lucy's death  
-D) News of an outbreak of brain fever
-A: C) Details about Lucy's death
+Q: What shocking claim does Van Helsing make at the end of the chapter?
+A) That he is a vampire
+B) That Renfield attacked the children 
+C) That Count Dracula attacked the children
+D) That Lucy Westenra attacked the children
+A: D) That Lucy Westenra attacked the children
 
 
 Chapter 15:
@@ -625,82 +625,82 @@ C: (B) Cut off her head
 
 Q: Why does Dr. Van Helsing want to cut off Lucy's head?
 A) To prevent her from becoming a vampire
-B) To examine her teeth  
-C) To prove she is truly dead
-D) To punish her for becoming a vampire
+B) As an experiment 
+C) To examine her brain
+D) To hide evidence of how she died
 A: (A) To prevent her from becoming a vampire
 
-Q: Why does Arthur object to Van Helsing's plan? 
-A) He believes Lucy is truly dead
-B) He wants to protect her grave from desecration
-C) He thinks Van Helsing is mad
-D) He doesn't believe in vampires
-B: (B) He wants to protect her grave from desecration
+Q: What does Dr. Seward initially think about Van Helsing's plan?
+A) He thinks Van Helsing has gone mad
+B) He is fully supportive of the plan
+C) He wants to help carry out the plan
+D) He suggests a better alternative
+A: (A) He thinks Van Helsing has gone mad
 
-Q: What does Van Helsing show Arthur to convince him Lucy may be undead?
-A) Lucy's empty coffin
-B) The bite marks on Lucy's neck
-C) Lucy's sharpened teeth
-D) The missing child 
-C: (C) Lucy's sharpened teeth
+Q: How does Arthur Holmwood react when he hears Van Helsing's plan? 
+A) He reluctantly agrees to help 
+B) He angrily refuses to allow it
+C) He suggests modifications to the plan
+D) He asks for more time to consider it
+B: (B) He angrily refuses to allow it
 
-Q: Where does Van Helsing say he will spend the night?
-A) In Lucy's tomb
-B) In the churchyard  
-C) At the hospital
-D) At the Berkeley Hotel
+Q: What does Van Helsing say he will do if Arthur still refuses after seeing Lucy's body?
+A) He will kill Lucy anyway
+B) He will find someone else to help him
+C) He will respect Arthur's wishes
+D) He will commit Lucy to an asylum
+A: (A) He will kill Lucy anyway
+
+Q: Where does Van Helsing say he will spend the night before carrying out his plan?
+A) In a hotel room
+B) In the churchyard 
+C) At Dr. Seward's home
+D) Outside Lucy's tomb
 B: (B) In the churchyard
-
-Q: What does Van Helsing ask Arthur, Quincey and Dr. Seward to promise?
-A) That they will help him behead Lucy
-B) That they will not condemn his actions
-C) That they will not tell anyone else his plans
-D) That they will not blame themselves
-B: (B) That they will not condemn his actions
 
 
 Chapter 16:
 Q: What did Van Helsing and Dr. Seward find when they opened Lucy's coffin the first time?
-A) Lucy's body was missing  
-B) The coffin was filled with blood
-C) The coffin was empty
-D) Lucy's body was there as normal
-A: (C) The coffin was empty
+A) Lucy's body 
+B) Nothing
+C) Garlic
+D) A wooden stake
+A: (B) Nothing
 
-Q: What did Van Helsing and the others see Lucy holding when she appeared in the graveyard? 
-A) A crucifix
-B) A child 
-C) A rose
-D) A candle
-A: (B) A child
-
-Q: What did Van Helsing place around the door of the tomb to prevent Lucy from entering?
-A) Garlic
-B) Silver crosses
-C) Holy water 
-D) Wooden stakes
-A: (A) Garlic 
+Q: What did Van Helsing use to prevent the Undead from entering Lucy's tomb?
+A) Garlic 
+B) A crucifix 
+C) Holy water
+D) A wooden stake
+A: (A) Garlic
 
 Q: Who volunteered to drive the stake through Lucy's heart?
-A) Quincey Morris
-B) Van Helsing 
-C) Dr. Seward
+A) Dr. Seward
+B) Quincey Morris 
+C) Van Helsing
 D) Arthur Holmwood
 A: (D) Arthur Holmwood
 
-Q: What did Lucy's face look like after Arthur staked her?
-A) Full of rage
-B) Peaceful
-C) Scared
-D) Sad
-A: (B) Peaceful 
+Q: What did Van Helsing place in Lucy's mouth after Arthur staked her?
+A) Garlic
+B) Communion wafer
+C) A crucifix
+D) Holy water
+A: (A) Garlic
 
-Q: What did Van Helsing say they must do next?
-A) Celebrate Lucy's salvation
-B) Find and destroy the source of the vampirism
-C) Hold a funeral for Lucy
-D) Leave the country immediately 
-A: (B) Find and destroy the source of the vampirism
+Q: Where did Van Helsing say he was going the night after Lucy's staking? 
+A) To hunt vampires
+B) To Amsterdam
+C) To recruit help
+D) To inform Lucy's family
+A: (B) To Amsterdam  
+
+Q: What did Van Helsing ask of Dr. Seward and the others?
+A) To keep Lucy's vampirism a secret
+B) To help him hunt the vampire who turned Lucy
+C) To never speak of what happened
+D) To stake any other suspected vampires  
+A: (B) To help him hunt the vampire who turned Lucy
 
 
 Chapter 17:
@@ -710,79 +710,80 @@ B) A letter from Mina Harker
 C) A phone call from Van Helsing
 D) A telegram from Mina Harker (D)
 
-Q: What does Mina bring with her when she arrives in London?
+Q: What does Mina bring with her when she arrives at Dr. Seward's house? 
 A) Lucy's diary
-B) A suitcase  
+B) A phonograph  
 C) A typewriter
 D) A typewriter (D)
 
-Q: Why does Dr. Seward refuse to let Mina listen to his phonograph diary?
+Q: Why does Dr. Seward initially not want Mina to hear his phonograph diary?
 A) It contains private patient information
-B) It is broken
-C) It contains details about Lucy's death he doesn't want Mina to hear  
-D) It contains details about Lucy's death he doesn't want Mina to hear (D) 
-
-Q: How does Mina convince Dr. Seward to let her listen to the phonograph diary?
-A) She steals the cylinders  
-B) She threatens to tell Van Helsing 
-C) She offers to type it up for him
-D) She offers to type it up for him (D)
+B) It is too boring 
+C) It details Lucy's death
+D) It details Lucy's death (C) 
 
 Q: What does Jonathan Harker bring back from Whitby?
 A) Souvenirs 
 B) Letters about Carfax
-C) Lucy's diary
+C) Seashells
 D) Letters about Carfax (B)
 
-Q: Why does Mina comfort and kiss Mr. Morris?
-A) She has fallen in love with him
-B) To thank him for his kindness 
-C) Because he is grieving over Lucy
-D) Because he is grieving over Lucy (C)
+Q: Why does Mina want to help transcribe everything into chronological order?
+A) To better understand the events
+B) To have extra copies
+C) To practice her typing skills
+D) To better understand the events (A)
+
+Q: How does Mina comfort Lord Godalming when he is grieving?
+A) With food
+B) With wise advice
+C) With sympathy and an offer of sisterly support  
+D) With money
+C) With sympathy and an offer of sisterly support (C)
 
 
 Chapter 18:
-Q: What does Renfield request from Dr. Seward at the beginning of the chapter?
-A) To be released from the asylum 
-B) To see Mina again
-C) To speak with Van Helsing
-D) To get an update on Lucy's condition
-A: A) To be released from the asylum
+Q: What does Dr. Van Helsing use to explain why he believes vampires exist?
+A) Personal experience 
+B) Historical records
+C) Scientific evidence
+D) Religious teachings
+A: (B) Historical records
 
-Q: Why does Renfield say he cannot fully explain his reasons for wanting to be released? 
-A) He is bound to secrecy  
-B) He does not fully trust Dr. Seward
-C) He is afraid his reasons will be seen as insane
-D) He does not want to reveal his plans to harm others
-A: A) He is bound to secrecy   
+Q: What does Dr. Van Helsing say is one of the limitations of vampires? 
+A) They cannot cross running water except at high or low tide
+B) They do not cast a reflection in mirrors 
+C) They can only change form at sunrise, noon and sunset
+D) They are repelled by garlic
+A: (C) They can only change form at sunrise, noon and sunset
 
-Q: What does Dr. Van Helsing explain to the group at the beginning of Mina's journal entry?
-A) The nature and powers of vampires
-B) His plan to kill Dracula
-C) Lucy's connection to Dracula
-D) The history of Dracula's family
-A: A) The nature and powers of vampires
+Q: Why does Mr. Morris shoot out the window?
+A) To test his gun
+B) To kill a bat
+C) To signal the others
+D) To scare Dr. Seward
+A: (B) To kill a bat
 
-Q: Why does Mr. Morris fire his gun out the window?
-A) To kill a vampire bat
-B) To signal the others 
-C) To scare Dr. Seward
-D) To test his weapon
-A: A) To kill a vampire bat
+Q: How does Renfield react when he is visited by Dr. Seward and the others?
+A) With fear and anger
+B) With confusion and madness  
+C) With rationality and eloquence
+D) With dismissal and disinterest
+A: (C) With rationality and eloquence
 
-Q: What does Renfield imply he knows about at the end of the chapter?
-A) Dracula's plans
-B) Mina's secret
-C) Van Helsing's past 
-D) Seward's feelings for Lucy
-A: A) Dracula's plans
+Q: Why does Renfield want Dr. Seward to release him from the asylum?
+A) He claims he has fully recovered his sanity
+B) He is being mistreated by the staff
+C) He wants to rejoin Dracula
+D) He is bored and lonely
+A: (A) He claims he has fully recovered his sanity
 
-Q: How does Dr. Seward respond when Renfield begs to be released?
-A) He refuses and orders Renfield back to bed
-B) He promises to release him the next day
-C) He agrees to let him go immediately
-D) He says he will consider it after talking more
-A: A) He refuses and orders Renfield back to bed
+Q: What does Mina Harker do while the men go to Carfax?  
+A) Sleeps soundly
+B) Awaits their return nervously 
+C) Goes about her normal activities
+D) Follows them secretly
+A: (B) Awaits their return nervously
 
 
 Chapter 19:
@@ -790,7 +791,7 @@ Q: What does Jonathan Harker see the women growing into through the whirling mis
 A) Ghosts  
 B) Vampires
 C) Werewolves
-D) Witches
+D) Zombies
 A: (B) Vampires
 
 Q: What does Van Helsing ask Dr. Seward when they visit Renfield? 
@@ -802,295 +803,289 @@ A: (C) To let Renfield talk about consuming live things
 
 Q: What does Renfield call Van Helsing when he visits?
 A) A fool 
-B) An old friend
-C) The devil
-D) An old fool
-A: (D) An old fool
-
-Q: What does Van Helsing give each person to protect themselves against Dracula?
-A) A crucifix, garlic, a revolver, a knife, and electric lamps
-B) A wooden stake, mallet, and holy water
-C) Silver bullets, a torch, and a Bible
-D) Wolfsbane, a silver dagger, and a mirror
-A: (A) A crucifix, garlic, a revolver, a knife, and electric lamps
+B) Crazy
+C) The old fool Van Helsing
+D) An idiot
+A: (C) The old fool Van Helsing
 
 Q: How does Mina Harker fall asleep?
 A) Naturally
-B) After crying a lot
-C) After taking a sleeping draught 
+B) After taking sleeping medicine 
+C) After drinking wine
 D) She doesn't fall asleep
-A: (C) After taking a sleeping draught
+A: (B) After taking sleeping medicine
 
-Q: What does Renfield pray for?
-A) Forgiveness of his sins
-B) The death of Dracula
-C) A cat
-D) His family
-A: (C) A cat
+Q: What does Mina regret doing that she thinks led to Lucy's death? 
+A) Visiting the churchyard
+B) Going to Whitby
+C) Walking alone at night
+D) Reading Dracula
+A: (B) Going to Whitby
+
+Q: What do the men do after dinner while sending Mina to bed?
+A) Go hunting
+B) Smoke together
+C) Continue researching
+D) Go to sleep
+A: (B) Smoke together
 
 
 Chapter 20:
-Q: What is the name of the person who sold the boxes to Bloxam?
-A) Thomas Snelling  
-B) Joseph Smollet
-C) Sam Bloxam
-D) Archibald Winter-Suffield
-A: (B) Joseph Smollet
+Q: What does Jonathan Harker learn from Thomas Snelling about the boxes taken from Carfax?
+A) Snelling took 6 boxes to Mile End New Town and 6 boxes to Jamaica Lane
+B) Snelling took 9 boxes to Mile End New Town and 3 boxes to Jamaica Lane  
+C) Snelling took 3 boxes to Mile End New Town and 9 boxes to Jamaica Lane
+D) Snelling took 12 boxes to Mile End New Town and none to Jamaica Lane
+A: A) Snelling took 6 boxes to Mile End New Town and 6 boxes to Jamaica Lane
 
-Q: Where did Bloxam deliver the first set of boxes?
-A) Jamaica Lane, Bermondsey 
-B) 197, Chicksand Street, Mile End New Town
-C) 4, Poters Cort, Bartel Street, Walworth
-D) 347, Piccadilly
-A: (B) 197, Chicksand Street, Mile End New Town
+Q: How does Jonathan Harker get the address for Sam Bloxam?
+A) Bloxam's wife gives Harker the address 
+B) Harker finds the address in Bloxam's notebook
+C) A man at the pub gives Harker the address
+D) Harker sends a child to buy an envelope and paper to get Bloxam's address later
+A: D) Harker sends a child to buy an envelope and paper to get Bloxam's address later
 
-Q: Who opened the door in Piccadilly when Bloxam delivered the boxes?
-A) The old gentleman with a white moustache 
-B) Thomas Snelling
-C) Joseph Smollet
-D) Sam Bloxam
-A: (A) The old gentleman with a white moustache
+Q: What does Sam Bloxam tell Jonathan Harker about delivering boxes to Piccadilly?
+A) Bloxam delivered 3 boxes to a dusty old house 
+B) Bloxam delivered 9 boxes to a house near a big white church
+C) Bloxam delivered 6 boxes to a house with high steps  
+D) Bloxam delivered 12 boxes but doesn't remember the house
+A: B) Bloxam delivered 9 boxes to a house near a big white church
 
-Q: What did Renfield compare the wings of flies to?
-A) The aërial powers of the psychic faculties
-B) The souls of the dead
-C) Demonic forces
-D) Angels' wings
-A: (A) The aërial powers of the psychic faculties 
+Q: How does Jonathan Harker learn who purchased the Piccadilly house?
+A) From the agent Mr. Mitchell
+B) From Sam Bloxam
+C) From the notice board outside the house
+D) He does not learn who purchased the house
+A: A) From the agent Mr. Mitchell
 
-Q: What biblical figure did Renfield compare himself to?
-A) Cain
-B) Judas
-C) Enoch
-D) Abraham
-A: (C) Enoch
+Q: What does Renfield tell Dr. Seward about wanting souls?
+A) He wants to eat souls
+B) He doesn't need souls
+C) He wants to catch souls in a net
+D) He wants to trade souls
+A: B) He doesn't need souls 
 
-Q: Who were the original vendors of the house in Piccadilly?
-A) Mitchell, Sons & Candy
-B) Count de Ville
-C) Executors of Archibald Winter-Suffield
-D) Lord Godalming
-A: (C) Executors of Archibald Winter-Suffield
+Q: Why does Dr. Seward blow his whistle when visiting Renfield?
+A) To call for an attendant
+B) To wake Renfield up
+C) To test Renfield's hearing
+D) To signal the end of the visit
+A: A) To call for an attendant
 
 
 Chapter 21:
-Q: What injury did Renfield appear to have suffered when Dr. Seward found him on the floor?
+Q: What injury did Renfield suffer after his accident?
 A) A broken arm  
 B) A broken back
 C) A broken leg
 D) A broken neck
 A: B) A broken back
 
-Q: How did Dr. Van Helsing, Dr. Seward, and the others gain entry to the Harkers' room? 
-A) The door was unlocked
-B) They knocked and were let in 
-C) They broke the door open
-D) They had a key 
-A: C) They broke the door open
+Q: How did Dracula attack Mina when he entered her room? 
+A) He bit her neck and forced her to drink his blood
+B) He beat her and broke her bones
+C) He threatened to kill Jonathan if she made a sound
+D) He hypnotized her into submission
+A: C) He threatened to kill Jonathan if she made a sound
 
-Q: What did the Count force Mina to do against her will?
-A) Drink his blood
-B) Kiss him
-C) Look at him
-D) Touch him
-A: A) Drink his blood
+Q: What did the men use to protect themselves when confronting Dracula in Mina's room?
+A) Silver bullets
+B) Wooden stakes  
+C) Crucifixes
+D) Garlic
+A: C) Crucifixes
 
-Q: What happened to Jonathan Harker when the others found him?
-A) He was asleep
-B) He was awake and aware
-C) He was in a stupor
-D) He was not there
-A: C) He was in a stupor  
+Q: What did Dracula do to Mina during the attack?
+A) He killed her
+B) He turned her into a vampire 
+C) He drank her blood
+D) He kidnapped her
+A: C) He drank her blood
 
-Q: What did Quincey Morris see leaving Renfield's window?
-A) A bat
-B) The Count
-C) A dog
-D) A rat 
-A: A) A bat
+Q: How did Renfield describe Dracula's ability to control animals?
+A) With his mind
+B) With magic spells
+C) With his voice
+D) With hand gestures
+A: A) With his mind
 
-Q: What did Van Helsing use to keep the Count at bay?
-A) A crucifix
-B) Garlic
-C) Holy water 
-D) A sacred wafer
-A: D) A sacred wafer
+Q: What did the men resolve to do after the attack on Mina?
+A) Kill Dracula
+B) Protect Mina
+C) Leave town immediately 
+D) Find Dracula's lair
+A: B) Protect Mina
 
 
 Chapter 22:
-Q: What does Van Helsing use to try to protect Mina?
-A) A cross  
-B) Holy water
-C) A bible
-D) A wafer
-A: (D) A wafer
+Q: What does Van Helsing use to try to protect Mina, that ends up burning her forehead?
+A) A crucifix  
+B) Holy water 
+C) A bible verse
+D) A Sacred Wafer (D)
 
-Q: What does Van Helsing suggest doing to prevent Dracula from using his earth boxes?
-A) Burn them  
+Q: What does the group find missing when they search the boxes in the old chapel at Carfax? 
+A) One of the boxes
+B) The dirt inside the boxes  
+C) The lids of the boxes
+D) Tools to open the boxes (A)
+
+Q: What does Van Helsing say they must do to 'sterilize' the boxes of earth?
+A) Burn them 
 B) Bury them
-C) Sterilize them
-D) Break them open
-A: (C) Sterilize them
+C) Place Sacred Wafers in them
+D) Pour holy water on them (C)
 
-Q: How does the group plan to get into Dracula's house in Piccadilly?  
-A) Break in
-B) Pretend to be potential buyers
-C) Bribe the locksmith 
-D) Say they lost the key
-A: (C) Bribe the locksmith
+Q: Where does the group decide to go to continue their search after Carfax?
+A) The asylum
+B) Piccadilly
+C) Lucy's tomb 
+D) Dracula's castle (B) 
 
-Q: What does the group find in the dining room of the Piccadilly house?
-A) Coffins
-B) Dracula's diary 
-C) Deeds and documents
-D) Gold and jewels
-A: (C) Deeds and documents
+Q: Who goes to find a locksmith so the group can enter the house in Piccadilly?
+A) Van Helsing and Morris
+B) Seward and Harker  
+C) Godalming and Morris
+D) Van Helsing and Godalming (C)
 
-Q: Where does the group decide Mina should wait during their search?
-A) At the asylum
-B) At the hotel
-C) In the carriage 
-D) In the park
-A: (D) In the park
-
-Q: What does Dracula's reaction to the wafer on Mina's head suggest?
-A) That he is afraid of holy items
-B) That Mina is becoming a vampire
-C) That the wafer is poisonous
-D) That Mina is allergic 
-A: (A) That he is afraid of holy items
+Q: What does the group find evidence of when they search the house in Piccadilly?
+A) Dracula had been living there
+B) Dracula planned to move there
+C) Dracula visited there occasionally 
+D) Dracula was hiding something there (C)
 
 
 Chapter 23:
 Q: What does Dr. Van Helsing suggest is the Count's main motivation in escaping London by ship?
 A) To find more blood 
-B) To evade pursuit
-C) To spread vampirism elsewhere
-D) To return to Transylvania
-A: (B) To evade pursuit
+B) To escape the hunters pursuing him
+C) To spread vampirism to other lands
+D) To reunite with his vampire brides
+A: (B) To escape the hunters pursuing him
 
-Q: Why does Dr. Van Helsing say they must continue pursuing the Count even though he has left London?
-A) The Count stole money from them
-B) The Count turned Mina into a vampire 
-C) The Count is extremely dangerous
-D) They want revenge against the Count
-A: (B) The Count turned Mina into a vampire
+Q: How does Mina get information about which ship the Count has boarded?
+A) By using her psychic powers 
+B) By reading Jonathan's journal
+C) By being hypnotized by Van Helsing
+D) By communicating telepathically with the Count
+A: (C) By being hypnotized by Van Helsing
 
-Q: What does Jonathan Harker groan and say after receiving Mina's telegram about the Count going south? 
-A) "We must hurry and catch him before sunset!"
-B) "He's going to turn more people into vampires!"
-C) "Now, God be thanked, we shall soon meet!"
-D) "That monster is going to kill again!"
-A: (C) "Now, God be thanked, we shall soon meet!"
+Q: What does Van Helsing realize about why the Count took the money from the Harkers' residence?
+A) To buy passage on a ship
+B) To purchase a new estate 
+C) To bribe officials for protection
+D) To acquire more coffins and grave dirt
+A: (A) To buy passage on a ship
 
-Q: How does Mina convince the men to show mercy towards the Count?
-A) She threatens to leave them if they don't 
-B) She argues the Count had no choice in becoming a vampire
-C) She reminds them they may need mercy themselves one day
-D) She claims killing the Count would be murder
-A: (C) She reminds them they may need mercy themselves one day
+Q: How does Jonathan react when Mina says they should pity the Count?
+A) He agrees completely with her view
+B) He remains silent and conflicted
+C) He angrily rejects the idea of pitying the monster
+D) He is moved to tears by her compassion
+A: (C) He angrily rejects the idea of pitying the monster
 
-Q: What does Van Helsing do before hypnotizing Mina?
-A) Makes her drink a potion 
-B) Says a Latin prayer over her
-C) Passes his hands in front of her face  
-D) Rings a bell to relax her
-A: (C) Passes his hands in front of her face
+Q: What does Van Helsing tell Mina about why they must pursue the Count?
+A) The Count owes them money
+B) The Count has hidden treasure
+C) Mina's soul depends on destroying him
+D) The Count kidnapped Jonathan
+A: (C) Mina's soul depends on destroying him  
 
-Q: Under hypnosis, what does Mina reveal about where the Count has gone?
-A) He fled to Transylvania
-B) He is hiding in the London sewers
-C) He took a ship from London
-D) He is in a nearby abandoned castle
-A: (C) He took a ship from London
+Q: Why does Van Helsing want to find the Count's ship before it leaves port?
+A) So they can destroy the ship and kill the Count
+B) To rescue Jonathan who is trapped on board
+C) To steal the Count's coffins full of Transylvanian earth
+D) Because once it leaves, the Count will be lost to them
+A: (D) Because once it leaves, the Count will be lost to them
 
 
 Chapter 24:
-Q: What does Van Helsing say is necessary for the group to do in their quest against Dracula?
-A) To remain optimistic 
-B) To keep traveling eastwards  
-C) To act in secret
-D) To arm themselves
-A: C) To act in secret
+Q: What does Van Helsing say is necessary for the group to do regarding Mina?
+A) Keep her ignorant of their plans  
+B) Let her join in making plans  
+C) Send her away for her safety
+D) Hypnotize her again
+A: A) Keep her ignorant of their plans
 
-Q: Why does Van Helsing say Mina should no longer be part of their council?
-A) Because she is a woman
-B) Because Dracula can read her mind  
-C) Because she is too emotional
-D) Because she needs to rest
-A: B) Because Dracula can read her mind
+Q: Why does Van Helsing say they must board the Czarina Catherine ship?
+A) To destroy Dracula's coffin  
+B) To place a rose branch on the coffin  
+C) To find proof Dracula is aboard  
+D) To confront Dracula directly
+B: B) To place a rose branch on the coffin
 
-Q: How does the group plan to track where Dracula's box is placed on the ship?
-A) By using a tracking device
-B) By placing a branch of wild rose on it
-C) By disguising themselves as crew members  
-D) By bribing the captain
-A: B) By placing a branch of wild rose on it 
+Q: What does Quincey Morris suggest adding to their weapons?
+A) Silver bullets  
+B) Winchesters  
+C) Wooden stakes  
+D) Holy water
+B: B) Winchesters
 
-Q: Why does Quincey Morris suggest adding Winchesters to their weapons?
-A) To impress Mina
-B) To fight the wolves
-C) To signal the crew
-D) To kill Dracula quickly
-A: D) To kill Dracula quickly
+Q: Why does Mina say she must go with the men on their journey? 
+A) She wants to help defeat Dracula  
+B) She feels safer with them  
+C) Dracula is compelling her  
+D) She knows the routes best
+C: C) Dracula is compelling her
 
-Q: Why does Mina insist on going with the men on their journey? 
-A) She wants adventure
-B) She feels safer with them
-C) She wants to help defeat Dracula
-D) She is compelled by Dracula's control
-A: D) She is compelled by Dracula's control
+Q: What does Jonathan promise Mina?
+A) To protect her from Dracula  
+B) To not tell her their plans  
+C) To take her with them  
+D) To return soon
+B: B) To not tell her their plans
 
-Q: What does Jonathan promise Mina, even though it pains him?
-A) That he will kill Dracula
-B) That he will protect her
-C) That he will not tell her their plans
-D) That he will marry her
-A: C) That he will not tell her their plans
+Q: How many days does Van Helsing say it will take to travel to Varna?
+A) 2 days
+B) 3 days 
+C) 5 days
+D) 7 days
+B: B) 3 days
 
 
 Chapter 25:
 Q: What does Dr. Seward say he misses at the beginning of his diary entry on October 25th?
 A) His phonograph  
-B) His medical bag
-C) His notebook
-D) His typewriter
+B) His medical instruments
+C) His books
+D) His friends
 A: (A) His phonograph
 
 Q: What does Van Helsing hypnotize Mina to do each morning and evening?
 A) Sleep 
-B) Report what she can see and hear
+B) Report what she sees and hears
 C) Forget about Dracula
-D) Check her pulse
-A: (B) Report what she can see and hear
+D) Relax
+A: (B) Report what she sees and hears
 
-Q: How does the group plan to kill Dracula if they can get aboard his ship?
+Q: How does the group plan to kill Dracula when they find him?
 A) Drive a stake through his heart
-B) Behead him
+B) Cut off his head
 C) Strangle him
-D) Both A and B
-A: (D) Both A and B
+D) A and B
+A: (D) A and B 
 
-Q: What does Mina realize about Dracula's powers over her?
-A) He can still control her mind
-B) He has lost his control over her
-C) His powers have strengthened 
-D) She is unsure if he still has power over her
-A: (B) He has lost his control over her
+Q: What does Mina realize about Dracula when she is in a trance on October 27?
+A) That he is escaping them
+B) That he is coming for her
+C) That he is weaker than she thought
+D) That he is afraid of them
+A: (A) That he is escaping them
 
-Q: How does Van Helsing explain Dracula's pattern of behavior?
-A) Dracula is very intelligent and strategic
-B) Dracula acts on instinct like a child
-C) Dracula is insane and acts erratically 
-D) Dracula is very cunning and vengeful
-A: (B) Dracula acts on instinct like a child
+Q: What does Van Helsing ask Mina to find in Harker's journal?  
+A) References to Dracula's homeland
+B) Details about Dracula's castle
+C) Information about vampires
+D) Warnings about Dracula's powers
+A: (A) References to Dracula's homeland
 
-Q: What does the group learn about Dracula's destination from Mina?
-A) He is headed to London
-B) He is going back to Transylvania
-C) He is traveling to South America 
-D) He is going to Galatz
-A: (D) He is going to Galatz
+Q: How does the group react when they learn the Czarina Catherine has arrived in Galatz?
+A) With shock
+B) With excitement 
+C) With fear
+D) With indifference
+A: (B) With excitement
 
 
 Chapter 26:
@@ -1098,85 +1093,85 @@ Q: What does Dr. Seward write his diary entries on?
 A) Paper  
 B) His laptop
 C) A typewriter
-D) Parchment
-A: A (Paper)
+D) Parchment  
+A: A) Paper
 
 Q: How does the group plan to track down Dracula?
 A) By studying maps to guess where he went
 B) By asking people if they've seen him
-C) By looking for signs of supernatural occurrences  
-D) By traveling to Transylvania
-A: A (By studying maps to guess where he went)
+C) By searching the rivers he may have traveled on
+D) By setting traps around his castle
+C: C) By searching the rivers he may have traveled on  
 
-Q: What does Van Helsing suggest they use Mina's hypnotic powers for?
-A) To fight Dracula directly
-B) To find Dracula's hiding spot
-C) To learn about Dracula's origins
-D) To trick Dracula's companions
-A: B (To find Dracula's hiding spot)
+Q: What does Van Helsing want to do that the others object to?
+A) Let Mina come along into danger
+B) Give up on finding Dracula  
+C) Kill Dracula's human helpers
+D) Go to Dracula's castle alone
+A: A) Let Mina come along into danger
 
-Q: How does the group plan to reach Dracula's castle?
-A) By train 
-B) By carriage
-C) On horseback
-D) By boat
-A: B (By carriage)  
+Q: How does the group plan to destroy Dracula?
+A) With guns and knives
+B) With holy water and crosses
+C) By exposing him to sunlight
+D) By decapitating him and separating his head and body  
+D: D) By decapitating him and separating his head and body
 
-Q: Why does Jonathan object to Van Helsing's plan to take Mina to Dracula's castle?
-A) He thinks it's too dangerous
-B) He doesn't trust Van Helsing
-C) He wants to go with Mina himself
-D) He thinks they should avoid the castle
-A: A (He thinks it's too dangerous)
+Q: Why does Dracula have to travel by boat?
+A) He gets seasick in carriages
+B) He can't cross flowing water on land
+C) He wants to fake out the group tracking him 
+D) It's the fastest way to travel
+B: B) He can't cross flowing water on land
 
-Q: What does Van Helsing mean when he says "we are in the hands of God"?
-A) God will protect them
-B) Everything is out of their control now
-C) God has abandoned them 
-D) Their fate depends on God's will
-A: D (Their fate depends on God's will)
+Q: What happens after Mina reads the chapter to the group?
+A) They argue about the best plan
+B) Van Helsing praises her skills
+C) They head to the castle immediately
+D) Jonathan gives her a kiss
+B: B) Van Helsing praises her skills
 
 
 Chapter 27:
 Q: What does Jonathan Harker throw out of the cart?
-A) The chest 
-B) Dracula  
-C) The horses
-D) His knife
-A: A) The chest
+A) The horses 
+B) Supplies
+C) The large chest
+D) His coat
+A: (C) The large chest
 
-Q: What happens when Jonathan and Quincey open Dracula's coffin? 
-A) Dracula's body crumbles to dust
-B) Dracula attacks them
-C) The gypsies attack
-D) Nothing happens
-A: A) Dracula's body crumbles to dust
+Q: What happens when Jonathan and Quincey open the chest? 
+A) The Count emerges 
+B) Gold spills out
+C) The Count turns to dust
+D) The chest is empty
+A: (C) The Count turns to dust
+
+Q: Where does the final confrontation with Dracula take place?
+A) The castle 
+B) A gypsy camp
+C) The mountains
+D) The cemetery 
+A: (A) The castle
 
 Q: How does Quincey Morris die?
-A) From a wolf bite 
-B) From a gunshot wound
-C) From a knife wound  
-D) From old age
-A: C) From a knife wound
+A) From a wolf bite
+B) By sacrificing himself
+C) From hypothermia
+D) From a stab wound
+A: (D) From a stab wound  
 
-Q: Where does the final battle with Dracula take place?
-A) The castle
-B) The mountains
-C) The village 
-D) The cemetery 
-A: A) The castle
+Q: Who delivers the final blow to kill Dracula?
+A) Van Helsing
+B) Jonathan 
+C) Quincey
+D) Arthur
+A: (B) Jonathan
 
-Q: Who leads the group of gypsies pursuing the cart?
-A) Dracula
-B) Jonathan Harker
-C) Quincey Morris
-D) A gypsy chieftain
-A: D) A gypsy chieftain  
-
-Q: How does Mina help in the fight against Dracula?
-A) She fights the gypsies
-B) She stakes the vampires  
-C) She leads them to Dracula's lair
-D) She doesn't help
-A: C) She leads them to Dracula's lair
+Q: What do the group do at the end of the chapter?
+A) Burn the castle
+B) Return home
+C) Bury Quincey
+D) Celebrate their victory
+A: (B) Return home
 

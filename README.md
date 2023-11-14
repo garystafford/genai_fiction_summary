@@ -4,7 +4,7 @@ Unleash the Power of Generative AI for Comprehensive Document Analysis and Summa
 
 ## Notebook Examples
 
-The following Jupyter Notebook has all examples included in the blog post: [long_text_summarization.ipynb](long_text_summarization.ipynb).
+The following Jupyter Notebook has all examples included in the blog post and the video: [long_text_summarization_v1.ipynb](long_text_summarization_v1.ipynb). A newer version of the notebook, [long_text_summarization_v2.ipynb](long_text_summarization_v2.ipynb), is also available.
 
 
 ## Commands for Running Scripts
@@ -19,6 +19,7 @@ source summarize/bin/activate
 
 python3 -m pip install -r requirements.txt -Uq
 
+cd older_scripts/
 python ./book_summary_05_character.py
 ```
 
